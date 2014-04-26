@@ -142,15 +142,6 @@
 
 #  Cota
 
-  * [Download ZIP](https://github.com/victusfate/COTA/zipball/master)
-  * [Download TAR](https://github.com/victusfate/COTA/tarball/master)
-  * [View On GitHub](https://github.com/victusfate/COTA)
-
-This project is maintained by [victusfate](https://github.com/victusfate)
-
-
-
-
 You awaken, dazed and confused. Your eyes open to a submerged blur. A few
 bubbles drift past the green-tinged watery background in front of your face.
 You find that you cannot move your arms; after a few seconds you realize that
@@ -6939,10 +6930,10 @@ can be done about it?
 #   Character Sheets
 
 
+  * [View On GitHub](https://github.com/victusfate/COTA)
 
-Logged in as: Mark J. Essel
+This project is maintained by [victusfate](https://github.com/victusfate)
 
-book_-_cota.txt · Last modified: 2009/02/06 14:00 by messel
 
 
 
