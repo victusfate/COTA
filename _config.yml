@@ -1,0 +1,7 @@
+name: COTA
+markdown: redcarpet
+pygments: true
+highlighter: pygments
+repository: https://github.com/victusfate/COTA
+relative_permalinks: false
+baseurl: /COTA
