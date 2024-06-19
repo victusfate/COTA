@@ -4303,15 +4303,10 @@ Saving the Universe: All the powers that the 10,000 or so immortals that were
 created are using have to be messing up the universe somehow. How? And what
 can be done about it?
 
-## Introductory Adventure
+## todo Introductory Adventure
 
-### Sanctuary
+### todo Sanctuary
 
-### NPC Sheets
-
-# Quick Character Generation
-
-# Character Sheets
 
 
   * [View On GitHub](https://github.com/victusfate/COTA)
