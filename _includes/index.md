@@ -1,6 +1,4 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+**Table of Contents**
 
 - [Cota](#cota)
 - [Introduction](#introduction)
@@ -184,9 +182,9 @@ You know.
 
 You are immortal.
 
-#   Introduction
+# Introduction
 
-##   About C.O.T.A.
+## About C.O.T.A.
 
 Welcome to the world of Children of the Ark: A Victus Role-Playing Game.
 
@@ -209,7 +207,7 @@ cannons.
 
 Whether you want to go or not.
 
-###   The World of COTA
+### The World of COTA
 
 The game is set in the far future, where humanity has spread over the vastness
 of our galaxy. Humankind is nominally ruled over by a mysterious group known
@@ -227,22 +225,22 @@ boogymen; incredibly bizarre and amazing things have been attributed to them.
 The aliens from the Warp are strange creatures with odd powers. You yourself
 have some reality defying abilities and there are others like you out there.
 
-##   How to Read COTA
+## How to Read COTA
 
-###   Book layout
+### Book layout
 
-###   Notation use
+### Notation use
 
-##   How to Play COTA
+## How to Play COTA
 
-###   What you need to play a Victus Role Playing Game
+### What you need to play a Victus Role Playing Game
 
   * A d20 (20 sided dice)
   * A d6 (6 sided dice)
   * Strong liquor, a super computer, and an iron lung. (All of these are optional, but highly recommended for no good reason).
   * Brains. Preferably at least 1 fully functional one between everyone in the group. (More do help).
 
-###   What do characters do in COTA
+### What do characters do in COTA
 
 Characters in Children of the Ark (referred to as COTAs) are immortals with
 strange powers over reality. They can manipulate energy and gravity, influence
@@ -260,9 +258,9 @@ become masterful traders or craftsmen, or fulfill most any other position. The
 only thing they tend to have in common is that they tend to rise to the top of
 whatever ladder they choose to climb in their life.
 
-###   How to play a role-playing game
+### How to play a role-playing game
 
-####   Sample Game play
+#### Sample Game play
 
 Typography aside ( → ← ↔ ⇒ ⇐ ⇔ » « – — 640×480 © ™ ® ), let us begin. Their
 Ark ship and home for the last ten thousand years had retained its hull
@@ -350,11 +348,11 @@ the ship fragments quickly identifying and transporting the imprompto oxygen
 chamber back to the Battleship docking bays for interrogation. And that is
 only the beginning for the three COTA.
 
-#   Character Generation
+# Character Generation
 
-##   Quick Character Creation
+## Quick Character Creation
 
-###   Attributes
+### Attributes
 
 Every character has 6 main attributes:
 
@@ -370,7 +368,7 @@ Attribute values are determined by one of two methods:
   * Distribute 56 points amongst the attributes, with a minimum of 1 and a maximum of 12 in each.
   * Roll 4d6 for each attribute, taking the highest two dice and adding them and place in whichever attribute you like. Also add +10 floating points as desired (up to a maximum attribute of 12). You may re-roll the entire set once.
 
-###   Powers
+### Powers
 
 Characters start out with 1 level in Body Reconstruction, and 1 free power
 level to spend where they wish.
@@ -389,7 +387,7 @@ List of Powers:
   * Influence: The ability to mentally probe, attack, control, and manipulate others.
   * Illusion: The ability to alter other's perception of reality, and construct illusory phantoms.
 
-###   Subpowers
+### Subpowers
 
 Characters start out with 3 picks from the subpowers. If they wish, they may
 trade their extra power from above for 3 extra subpowers.
@@ -413,7 +411,7 @@ List of Subpowers:
   * Innate Pilot
   * Warlord
 
-###   Skills
+### Skills
 
 Characters have their THT times two in skill points to spend. They get 1 free
 level in Literacy and Pilot Land.
@@ -457,7 +455,7 @@ Skills are listed in bold font, with their masteries following in parenthesis:
   * Weapon Systems (Quick Shot, Point Defense)
   * Wood Working (Carver)
 
-##   Attributes Details
+## Attributes Details
 
 Characters have 6 basic attributes in the Victus game system: Strength,
 Agility, Durability, Thought, Will, and Presence. An average human has a score
@@ -483,7 +481,7 @@ keep the new rolls.
 Attributes can be advanced during the course of the game, using XP points.
 (See Experience Points section at the end of this chapter).
 
-###   IPL
+### IPL
 
 IPL Stands for Immortal Power Level. This attribute restricts the maximum
 value of any attribute or Power level, and also determines the number of
@@ -496,7 +494,7 @@ always Body Reconstruction). Also, characters get 1 subpower for every 4 IPL
 levels. So, a character with IPL 12 has 2 powers (Body Reconstruction and one
 additional from IPL 10) and 3 subpowers (from IPLs 4,8, and 12).
 
-####   Basic Attributes
+#### Basic Attributes
 
 Strength (STR): The physical ability to push, pull, slice, dice, chop, and
 carry. Strength determines the base amount of damage done with a punch, or
@@ -506,342 +504,76 @@ jumps can be up to a characters strength/2 in feet. Horizontal distance may be
 up to the characters strength in feet. A running jump doubles these heights
 and distances.
 
-Strength
-
-Maximum Lifting (Dead Lift) (lbs)
-
-1
-
-28
-
-2
-
-40
-
-3
-
-57
-
-4
-
-80
-
-5
-
-113
-
-6
-
-160
-
-7
-
-226
-
-8
-
-320
-
-9
-
-453
-
-10
-
-640
-
-11
-
-905
-
-12
-
-1280
-
-13
-
-1810
-
-14
-
-2560
-
-15
-
-3620
-
-16
-
-5120
-
-17
-
-7241
-
-18
-
-10240
-
-19
-
-14482
-
-20
-
-20480
-
-21
-
-28963
-
-22
-
-40960
-
-23
-
-57926
-
-24
-
-81920
-
-25
-
-115852
-
-26
-
-163840
-
-27
-
-231705
-
-28
-
-327680
-
-29
-
-463410
-
-30
-
-655360
-
-31
-
-926819
-
-32
-
-1310720
-
-33
-
-1853638
-
-34
-
-2621440
-
-35
-
-3707276
-
-36
-
-5242880
-
-37
-
-7414552
-
-38
-
-10485760
-
-39
-
-14829104
-
-40
-
-20971520
+| Strength | Maximum Lifting (Dead Lift) (lbs) |
+|----------|-----------------------------------|
+| 1        | 28                                |
+| 2        | 40                                |
+| 3        | 57                                |
+| 4        | 80                                |
+| 5        | 113                               |
+| 6        | 160                               |
+| 7        | 226                               |
+| 8        | 320                               |
+| 9        | 453                               |
+| 10       | 640                               |
+| 11       | 905                               |
+| 12       | 1280                              |
+| 13       | 1810                              |
+| 14       | 2560                              |
+| 15       | 3620                              |
+| 16       | 5120                              |
+| 17       | 7241                              |
+| 18       | 10240                             |
+| 19       | 14482                             |
+| 20       | 20480                             |
+| 21       | 28963                             |
+| 22       | 40960                             |
+| 23       | 57926                             |
+| 24       | 81920                             |
+| 25       | 115852                            |
+| 26       | 163840                            |
+| 27       | 231705                            |
+| 28       | 327680                            |
+| 29       | 463410                            |
+| 30       | 655360                            |
+| 31       | 926819                            |
+| 32       | 1310720                           |
+| 33       | 1853638                           |
+| 34       | 2621440                           |
+| 35       | 3707276                           |
+| 36       | 5242880                           |
+| 37       | 7414552                           |
+| 38       | 10485760                          |
+| 39       | 14829104                          |
+| 40       | 20971520                          |
 
 Agility (AGI): Represents manual dexterity and maneuverability, as well as the
 ability to avoid something. The number of actions you may take per round is
 your character agility divided by 4 rounding down with a minimum of one action
 per round.
 
-Agility
-
-Walking Speed
-
-Jogging Speed
-
-Sprinting Speed
-
-1
-
-.5 yrd/sec
-
-1 yrds/sec
-
-1.5yrds/sec
-
-2
-
-1 yrds/sec
-
-2 yrds/sec
-
-3 yrds/sec
-
-3
-
-1.5 yrds/sec
-
-3 yrds/sec
-
-4.5yrds/sec
-
-4
-
-2 yrds/sec
-
-4 yrds/sec
-
-6 yrds/sec
-
-5
-
-2.5 yrds/sec
-
-5 yrds/sec
-
-7.5yrds/sec
-
-6
-
-3 yrds/sec
-
-6 yrds/sec
-
-9 yrds/sec
-
-7
-
-3.5 yrds/sec
-
-7 yrds/sec
-
-10.5yrds/sec
-
-8
-
-4 yrds/sec
-
-8 yrds/sec
-
-12yrds/sec
-
-9
-
-4.5 yrds/sec
-
-9 yrds/sec
-
-13.5yrds/sec
-
-10
-
-5 yrds/sec
-
-10 yrds/sec
-
-15yrds/sec
-
-11
-
-5.5 yrds/sec
-
-11 yrds/sec
-
-16.5yrds/sec
-
-12
-
-6 yrds/sec
-
-12 yrds/sec
-
-18yrds/sec
-
-13
-
-6.5 yrds/sec
-
-13 yrds/sec
-
-19.5yrds/sec
-
-14
-
-7 yrds/sec
-
-14 yrds/sec
-
-21yrds/sec
-
-15
-
-7.5 yrds/sec
-
-15 yrds/sec
-
-22.5yrds/sec
-
-16
-
-8 yrds/sec
-
-16 yrds/sec
-
-24yrds/sec
-
-17
-
-8.5 yrds/sec
-
-17 yrds/sec
-
-25.5yrds/sec
-
-18
-
-9 yrds/sec
-
-18 yrds/sec
-
-27yrds/sec
-
-19
-
-9.5 yrds/sec
-
-19 yrds/sec
-
-28.5yrds/sec
-
-20
-
-10 yrds/sec
-
-20 yrds/sec
-
-30yrds/sec
+| Agility | Walking Speed | Jogging Speed | Sprinting Speed |
+|---------|---------------|---------------|-----------------|
+| 1       | .5 yrd/sec    | 1 yrds/sec    | 1.5yrds/sec     |
+| 2       | 1 yrds/sec    | 2 yrds/sec    | 3 yrds/sec      |
+| 3       | 1.5 yrds/sec  | 3 yrds/sec    | 4.5yrds/sec     |
+| 4       | 2 yrds/sec    | 4 yrds/sec    | 6 yrds/sec      |
+| 5       | 2.5 yrds/sec  | 5 yrds/sec    | 7.5yrds/sec     |
+| 6       | 3 yrds/sec    | 6 yrds/sec    | 9 yrds/sec      |
+| 7       | 3.5 yrds/sec  | 7 yrds/sec    | 10.5yrds/sec    |
+| 8       | 4 yrds/sec    | 8 yrds/sec    | 12yrds/sec      |
+| 9       | 4.5 yrds/sec  | 9 yrds/sec    | 13.5yrds/sec    |
+| 10      | 5 yrds/sec    | 10 yrds/sec   | 15yrds/sec      |
+| 11      | 5.5 yrds/sec  | 11 yrds/sec   | 16.5yrds/sec    |
+| 12      | 6 yrds/sec    | 12 yrds/sec   | 18yrds/sec      |
+| 13      | 6.5 yrds/sec  | 13 yrds/sec   | 19.5yrds/sec    |
+| 14      | 7 yrds/sec    | 14 yrds/sec   | 21yrds/sec      |
+| 15      | 7.5 yrds/sec  | 15 yrds/sec   | 22.5yrds/sec    |
+| 16      | 8 yrds/sec    | 16 yrds/sec   | 24yrds/sec      |
+| 17      | 8.5 yrds/sec  | 17 yrds/sec   | 25.5yrds/sec    |
+| 18      | 9 yrds/sec    | 18 yrds/sec   | 27yrds/sec      |
+| 19      | 9.5 yrds/sec  | 19 yrds/sec   | 28.5yrds/sec    |
+| 20      | 10 yrds/sec   | 20 yrds/sec   | 30yrds/sec      |
 
 This score is used in conjunction with skills to strike at an opponent or to
 dodge out of the way of their blows. Agility is also the base jogging movement
@@ -887,9 +619,9 @@ attribute is inapplicable (when arguing with your mother, or in most action
 sequences for instance, although intimidation or a demand to surrender may be
 possible when used in unison with an impressive act).
 
-##   Immortal Powers
+## Immortal Powers
 
-####   IPL
+#### IPL
 
 Immortal Power Level: starts at 12. This represents the maximum value a Stat
 or power may be raised to. Note that the Influence and Density Control may
@@ -901,54 +633,24 @@ immortal gains a new primary power at power level 1 or they may gain 3
 additional sub-powers. In addition the immortal gains 1 sub-power for every 4
 IP levels (4, 8, 12, etc.).
 
-IPL
+| IPL | Ability Gained |
+| --- | -------------- |
+| 1   | Body Reconstruction |
+| 4   | Subpower |
+| 8   | Subpower |
+| 10  | Power |
+| 12  | Subpower |
+| 16  | Subpower |
+| 20  | Power, Subpower |
+| 24  | Subpower |
+| 28  | Subpower |
+| 30  | Power, Subpower |
 
-Ability Gained
-
-1
-
-Body Reconstruction
-
-4
-
-Subpower
-
-8
-
-Subpower
-
-10
-
-Power
-
-12
-
-Subpower
-
-16
-
-Subpower
-
-20
-
-Power, Subpower
-
-24
-
-Subpower
-
-28
-
-Subpower
-
-30
-
-Power
 
 All immortals start off with 1 power point worth of powers (unless the gm
 decides otherwise).
 
-For reference, a light year is 5.87849981 x 1012 miles.
+For reference, a light year is 5.879e12 miles.
 
 Advancement after start: It costs 2X the next level to raise a power one
 level. After the start of the game each level must be paid for.
@@ -960,257 +662,28 @@ level. After the start of the game each level must be paid for.
   * Vector Movement Rate: 10,000 times combat movement rate 
   * Damage: 2 per level. (See table below)
 
-Power Level
-
-Effective Strength & Base Damage
-
-Range(yards)
-
-Area of Effect (Radius of sphere in yards)
-
-Movement Rate (yards/second)
-
-Vector Space Movement Rates (yards/sec)
-
-1
-
-2
-
-4000
-
-200
-
-1000
-
-1.00E+007
-
-2
-
-4
-
-8000
-
-400
-
-2000
-
-2.00E+007
-
-3
-
-6
-
-12000
-
-600
-
-3000
-
-3.00E+007
-
-4
-
-8
-
-16000
-
-800
-
-4000
-
-4.00E+007
-
-5
-
-10
-
-20000
-
-1000
-
-5000
-
-5.00E+007
-
-6
-
-12
-
-24000
-
-1200
-
-6000
-
-6.00E+007
-
-7
-
-14
-
-28000
-
-1400
-
-7000
-
-7.00E+007
-
-8
-
-16
-
-32000
-
-1600
-
-8000
-
-8.00E+007
-
-9
-
-18
-
-36000
-
-1800
-
-9000
-
-9.00E+007
-
-10
-
-20
-
-40000
-
-2000
-
-10000
-
-1.00E+008
-
-11
-
-22
-
-44000
-
-2200
-
-11000
-
-1.10E+008
-
-12
-
-24
-
-48000
-
-2400
-
-12000
-
-1.20E+008
-
-13
-
-26
-
-52000
-
-2600
-
-13000
-
-1.30E+008
-
-14
-
-28
-
-56000
-
-2800
-
-14000
-
-1.40E+008
-
-15
-
-30
-
-60000
-
-3000
-
-15000
-
-1.50E+008
-
-16
-
-32
-
-64000
-
-3200
-
-16000
-
-1.60E+008
-
-17
-
-34
-
-68000
-
-3400
-
-17000
-
-1.70E+008
-
-18
-
-36
-
-72000
-
-3600
-
-18000
-
-1.80E+008
-
-19
-
-38
-
-76000
-
-3800
-
-19000
-
-1.90E+008
-
-20
-
-40
-
-80000
-
-4000
-
-20000
-
-2.00E+008
+| Power Level | Effective Strength & Base Damage | Range(yards) | Area of Effect (Radius of sphere in yards) | Movement Rate (yards/second) | Vector Space Movement Rates (yards/sec) |
+| ----------- | -------------------------------- | ------------ | ---------------------------------------- | ---------------------------- | --------------------------------------- |
+| 1           | 2                                | 4000         | 200                                      | 1000                         | 1.00E+007                               |
+| 2           | 4                                | 8000         | 400                                      | 2000                         | 2.00E+007                               |
+| 3           | 6                                | 12000        | 600                                      | 3000                         | 3.00E+007                               |
+| 4           | 8                                | 16000        | 800                                      | 4000                         | 4.00E+007                               |
+| 5           | 10                               | 20000        | 1000                                     | 5000                         | 5.00E+007                               |
+| 6           | 12                               | 24000        | 1200                                     | 6000                         | 6.00E+007                               |
+| 7           | 14                               | 28000        | 1400                                     | 7000                         | 7.00E+007                               |
+| 8           | 16                               | 32000        | 1600                                     | 8000                         | 8.00E+007                               |
+| 9           | 18                               | 36000        | 1800                                     | 9000                         | 9.00E+007                               |
+| 10          | 20                               | 40000        | 2000                                     | 10000                        | 1.00E+008                               |
+| 11          | 22                               | 44000        | 2200                                     | 11000                        | 1.10E+008                               |
+| 12          | 24                               | 48000        | 2400                                     | 12000                        | 1.20E+008                               |
+| 13          | 26                               | 52000        | 2600                                     | 13000                        | 1.30E+008                               |
+| 14          | 28                               | 56000        | 2800                                     | 14000                        | 1.40E+008                               |
+| 15          | 30                               | 60000        | 3000                                     | 15000                        | 1.50E+008                               |
+| 16          | 32                               | 64000        | 3200                                     | 16000                        | 1.60E+008                               |
+| 17          | 34                               | 68000        | 3400                                     | 17000                        | 1.70E+008                               |
+| 18          | 36                               | 72000        | 3600                                     | 18000                        | 1.80E+008                               |
+| 19          | 38                               | 76000        | 3800                                     | 19000                        | 1.90E+008                               |
+| 20          | 40                               | 80000        | 4000                                     | 20000                        | 2.00E+008                               |
 
 Bonus Skill Levels: Some powers grant Bonus Skill levels. In this case the
 power level is added to the skill to determine total skill level. To increase
@@ -1248,7 +721,7 @@ listed here:
   * Permanence \- When determining power level of permanent abilities add one to the effective power level for each level of this specialty.
   * Area of Effect Boost  \- When determining area of effect of a power add this specialty to the power level to determine final strength and size.
 
-###   Body Reconstruction
+### Body Reconstruction
 
 (Immortality)
 
@@ -1275,103 +748,33 @@ Reconstructing bodies stay incorporeal until fully formed, at which point they
 simply appear wherever the Ghost happens to be at the moment. The Ghost is
 automatically attached to the body at this point.
 
-Body Reconstruction Level
+| Body Reconstruction Level | Time to create a new body |
+| ------------------------- | ------------------------- |
+| 1                         | 32 days                   |
+| 2                         | 16 days                   |
+| 3                         | 8 days                    |
+| 4                         | 4 days                    |
+| 5                         | 2 days                    |
+| 6                         | 1 day                     |
+| 7                         | 12 hours                  |
+| 8                         | 6 hours                   |
+| 9                         | 3 hours                   |
+| 10                        | 1 hour                    |
+| 11                        | 32 minutes                |
+| 12                        | 16 minutes                |
+| 13                        | 8 minutes                 |
+| 14                        | 4 minutes                 |
+| 15                        | 2 minutes                 |
+| 16                        | 1 minute                  |
+| 17                        | 32 seconds                |
+| 18                        | 16 seconds                |
+| 19                        | 8 seconds                 |
+| 20                        | 4 seconds                 |
+| 21                        | 2 seconds                 |
+| 22                        | 1 second                  |
+| 23                        | 1 action                  |
 
-Time to create a new body
-
-1
-
-32 days
-
-2
-
-16 days
-
-3
-
-8 days
-
-4
-
-4 days
-
-5
-
-2 days
-
-6
-
-1 day
-
-7
-
-12 hours
-
-8
-
-6 hours
-
-9
-
-3 hours
-
-10
-
-1 hours
-
-11
-
-32 minutes
-
-12
-
-16 minutes
-
-13
-
-8 minutes
-
-14
-
-4 minutes
-
-15
-
-2 minutes
-
-16
-
-1 minutes
-
-17
-
-32 seconds
-
-18
-
-16 seconds
-
-19
-
-8 seconds
-
-20
-
-4 seconds
-
-21
-
-2 seconds
-
-22
-
-1 seconds
-
-23
-
-1 action
-
-#####   Ghost Form
+##### Ghost Form
 
 When the body of an Immortal is completely destroyed, or is damaged beyond
 repair (i.e. Hit Points are reduced past -DUR, the Immortal goes into Ghost
@@ -1400,12 +803,12 @@ Immortal can leave it in Ghost Space indefinitely. When he is ready to reform
 in real space, the body is instantly transferred over, and the Ghost rejoins
 the new body.
 
-####   Specialties
+#### Specialties
 
   * Body Energy Knitting \- Each level of this specialty adds to Body Reconstruction level when determining how long it will take to reform a new living body and have it ready to reintegrate into normal space.
   * Fast Healing \- Each level of this specialty adds to Body Reconstruction when determining how many hit points automatically heal per round and per action sacrificed concentrating.
 
-###   Matter Creation
+### Matter Creation
 
 (Mass)
 
@@ -1430,13 +833,13 @@ Things to note:
   * When making shells/walls of adamantium (nice defensive tactic) for each effective strength point 1DR and 1HP is given to the wall per action (i.e. Matter Creation level 2, effective strength 4, 4DR and 4HP.
   * Items cannot be created in other objects (including living creatures). The exception is objects generated in an atmosphere (gas is displaced). This does allow for actions such as poisoning a target (by creating poison all around them) but not dropping a bunch of rubber cement in their chest cavity. For matter created in as such an attack (poisons), use the missile skill to determine whether or not the attack is successful; the damage is the power level*2, ignoring armor. Damage resistance due to the targets durability is considered. The onset time for these specific poisons is considered to be 1 round. The debilitating effects are generated immediately (coughing hacking); unless a tough will check is made, the target loses one action per round.
 
-####   Specialties
+#### Specialties
 
   * Enhanced memory \- each level purchased of this specialty adds two the maximum number of item types you can create instantly (still limited by mass/skill requirements) and stacks with the Photographic memory subpower.
   * Fast Creator \- each specialty level purchased is added to matter creation level when determining item construction times on the table in the section labelled Making Equipment with Matter Creation.
   * Prolific Creator \- for each specialty level purchased, the Matter Creationist can construct that many copies of an object in the normal time it takes them to construct one such object. This can't be combined with an attack to make more lethal poison or to affect a larger area, as this specialty is still subject to the mass and area of effect restriction (can't produce more than the effective strength of the power will allow). This specialty is perfect for mass producing equipment to outfit an army… of robots that you mass produce! It also complements Photographic Memory quickslots for items.
 
-####   Quick Item Creation Rules
+#### Quick Item Creation Rules
 
 Matter Creation and all required skills to create an item must be at the
 minimum level for that item. No skill check is required for items made using
@@ -1452,7 +855,7 @@ The sub-power Photographic Memory allows near instanteous item creation as
 long as it's mass can be created in a single action, the immortal may
 instantly make that object in a single action.
 
-###   Life Creation
+### Life Creation
 
 (Life)
 
@@ -1504,7 +907,7 @@ standard time of 1 second per creature point of the final form.
   * Life Creation power level is added to the Geneticist skill as bonus levels (they ride on top of the Genetics skill level purchased, giving mastery abilities sooner).
   * Life Creationists can heal 2 points per power level per action to any living target (including himself and other immortals). In addition they can revive recently fallen mortal creatures (immortals have an essence which is beyond the scope of this power). The time that a mortal creature can be dead for is 2Power Level in days. If the body is missing half or more of its original mass (i.e. horribly mutilated), or if a living creature is missing limbs, a Near Impossible difficulty check must be made to successfully heal the target (roll d20 + THT + Geneticist Skill vs. difficulty 30).
 
-####   Specialties
+#### Specialties
 
   * Fast Creator \- each level of Fast Creator allows creation of creatures 12seconds faster than normal to a minimum of 1 action per creature created.
   * Mutator \- Each level in this specialty adds 2 to the bio-genetics skill check to modify an existing mortal creature. In addition when doing modifications to existing mortal creatures, reduce the time taken by up to 12seconds per specialty level, although each modification takes at least 1 action.
@@ -1512,7 +915,7 @@ standard time of 1 second per creature point of the final form.
   * Psycho Doc \- Each level of this specialty adds to Life Creation Power Level when determing the total amount that may be healed per action.
   * Heal Area Specialization \- Each level in this specialty allows the immortal to heal (up to one point per Life Creation Level) to any chosen targets in the area specified by this specialty level (see area of effects for immortal powers above using specialty level to determine size).
 
-###   Energy Control
+### Energy Control
 
 (Energy)
 
@@ -1537,40 +940,23 @@ Things to note:
 
 Example of Power Sources
 
-Power Rating
+| Power Rating | Description |
+| ------------ | ----------- |
+| Weapon Damage | Small Energy Weapons & Items (pistols, rifles, heavy rifles) |
+| 14 | Hover Car Fusion Engine, Power Armor, a Cannon |
+| 20 | Heavy Robot Armor, a Tank or Cronium Weapons |
+| 16+7*SizeClass | Main Engines of a Space Ship |
+| 58 | Main Engines of a Space Station or the Power Plant of a City |
+| 64 | An entire planet's power |
 
-Small Energy Weapons & Items (pistols, rifles,heavy rifles)
-
-Weapon Damage
-
-Hover Car Fusion Engine, Power Armor, a Cannon
-
-14
-
-Heavy Robot Armor, a Tank or Cronium Weapons
-
-20
-
-Main Engines of a Space Ship
-
-16+7*SizeClass
-
-Main Engines of a Space Station or the Power Plant of a City
-
-58
-
-An entire planet's power
-
-64
-
-####   Specialties
+#### Specialties
 
   * Controller \- When attempting to shut down power sources this specialty level may be added to the skill check. So the final check would now be Energy Control Level + Will + Controller Level + d20 vs. 11 + Total Power Rating of all power sources to be shut down.
   * Field Specialist \- Each level of Field Specialization adds 2 points of damage per level on top of the normal energy absorption ability (once per round for free, and then once per action expended). So a Energy Control Level 5 Immortal with Field Specialization level 2 may absorb up to 14 damage for free once per round, and once per action expended.
   * Blaster Each level of this specialty adds 2 to the base damage of the blast power or one to the effective strength when added to base strength for damage (see Juggernaut common specialty).
   * Speed Freak Each level of this specialty increases is added to the Energy Control Level when determining movement rate.
 
-###   Warp Control
+### Warp Control
 
 (Warp)
 
@@ -1598,13 +984,13 @@ sun.
   * Automatically Sense Cronium up the normal power range (10Power Level in miles)
   * Create Sensory/Communication Pseudopod up to 10Power Level-1 miles (area of effect) from a jump space rip (either created by the power or within Warp Space)
 
-####   Specialties
+#### Specialties
 
   * Tendril Specialist Each level of this specialization adds 2 to the effective strength of the other worldy tendrils of jumpspace that the Warpmaster can control (see Juggernaut common specialty).
   * Summoner This specialization allows the Master of the Warp to summon automatically friendly warp creatures. Each level of the specialization allows additional Xelomites to be summoned (per action). The maximum number that may be summoned at any time is equal to this specialty level * 3. Instead of summoning additional Xelomites, in exchange for 15 normal xelomites a Xelomite Lord may be summoned. In exchange for 9 normal xelomites a bio-ship may be summoned with stats of an average Heavy Warship (see equipment section for details) capable of cronium speed travel.
   * Gate Specialist Each level of this specialization adds to the Master of Warp level when determining gate size and protecting others in the void of space.
 
-###   Gravity Control
+### Gravity Control
 
 (Gravity)
 
@@ -1630,12 +1016,12 @@ which is one action per round), etc. Things to note:
   * It is more difficult for a Grativity Controller to affect an area than a single target or object. When using Gravity in an area the Gravity Master has an effective strength of 1 point per power level much like Energy Control.
   * To make a permanent gravity well the Gravity Master uses half his power level - 5 to calculate the effective strength for affecting a single target. A permanent area of effect Gravity Well would have an effective strength of (power level - 5)* .5 rounded up.
 
-####   Specialties
+#### Specialties
 
   * Gravitic Strength \- Each level of this specialty adds 2 to the effective strength and damage of gravity control powers (see Juggernaut common specialty).
   * Monstrous \- Density monster! Each level of this specialization adds 2 the maximum durability a density controller may increase their own density to, without any additional mass or weight. So a Gravity Controller level 6 with 2 levels of Monstrous can comfortably increase their durability by 11 (base power 6*2 -1 to allow for easy movement) + 4 more or +15 DUR points.
 
-###   Continuum Control
+### Continuum Control
 
 (Space)
 
@@ -1687,13 +1073,13 @@ centered at a point within normal range.
   * A scan does not count as a line-of-sight (required for many attacks) except for opening a gate to that location. A Gate to the target area does, however. Note: Due to the fact that the gate is a physical phenomena, forming it will count as the surprise action in case the target is unaware of its arrival. After it forms, Initiative should be rolled if the gate is being used in a combat situation.
   * An Immortal can keep on scanning an area for as long as they desire. It takes 1 action to scan a volume equal to the area of effect. This can be anywhere within the maximum range. Scanning gives an immortal a visual knowledge of everything that exists in that cube, including the appearances of people, text on a page of a closed book, the location of a hidden passageway, and technologically cloaked items. If something within the scanned area has been cloaked via the Immortal power of Illusion, a contest of Powers occurs WIL + Alertness + d20 vs. AGI + Stealth*2 + 11. Note that Continuum control adds to Alertness and Illusion/Cloak adds to stealth.
 
-####   Specialties
+#### Specialties
 
   * Omniscience \- When determing the area of effect or volume that may be scanned with this power, add each specialty level to Contiuum Control level.
   * Gate Mastery \- This specialty adds to the Contiuum Control level when determining the maximum size of a Gate.
   * Range Mastery \- This specialty adds to the Contiuum Control level when determining the maximum range between gates or personal teleports.
 
-###   Electrokinesis
+### Electrokinesis
 
 (Machine)
 
@@ -1727,13 +1113,13 @@ Examples of actions an Electrokinectic could take:
   * Controlling or Shutting down a vehicle
   * Overloading a Power Reactor
 
-####   Specialties
+#### Specialties
 
   * Machine Command \- When taking control of mechanical or electrical systems add Machine Command specialty levels to roll to determine success. So the skill roll is now Electrokinesis Power Level + Machine Command Level + Will + d20 vs. Strength of the Target Object + 11.
   * AI Empathy \- Each level of this specialty adds 2 to Presence when dealing with AI's and will often times cause AIs to become non-hostile to this immortal.
   * Electronic Form Mastery \- Each level of this specialty increases maximum speed when in Electronic Form as well as adding to THT and WIL when in computer combat.
 
-###   Shapeshift
+### Shapeshift
 
 (Body)
 
@@ -1762,14 +1148,14 @@ physical form/doubles vital organs etc. This is not effective against mental
 attacks. This DR is cumulative with all forms of armor and other powers
 (Density Increase, Energy Absorption).
 
-####   Specialties
+#### Specialties
 
   * Vicious \- Each level of this specialty adds 2 to the effective strength and damage that can be inflicted or one to the effective strength when added to base strength for damage (see Juggernaut common specialty above).
   * Tough \- Each level of this specialization causes the Shapeshifter's immortal form to be much even more tough adding +1 to DR per level.
   * Grit Master \- (Duplicate Organs) Each level of this specialization adds one bonus level to Grit when determining hit points.
   * Inconcievable \- When determining maximum speed and area of effect this specialty level may be added to Shapeshifter Power Level.
 
-###   Influence
+### Influence
 
 (Mind)
 
@@ -1797,14 +1183,14 @@ Things to note:
   * More detailed information requires a roll though and may become more difficult. Implanting surface thoughts, or the power of suggestion can be accomplished with a roll of d20 + Influence vs. Targets Will + Influence (if applicable) + 11. The duration for simple suggestions is 1 round + 1 round for every success (maximum duration on another immortal about an hour, not that this should ever occur, thats 3600 successes people!)
   * At power level 6 effects may be made permanent by using the power with a penalty of 5 levels. This can allow permanent suggestions etc. (except for immortals which recover in an hour or so).
 
-####   Specialties
+#### Specialties
 
   * Precise Lobotomy \- (Free your mind) - Erases memories (may include powers, eiditic memory, etc. Game effect - gives back XP) Each level of this specialty allows the Influence Immortal to wipe the memories from another willing creature, including other immortals in such a way as to free up 2xp per specialty level or swap 2 quick creation slots per specialty level. The maximum amount of xp returned limits what powers and skills may be affected with this specialty (i.e. can't get a target to forget a level that costs more than the xp affected).
   * Mind Flayer \- Add 2 to the effective strength for mental blast damage and 1 to knock out rolls per specialization level (a slight modification of the Juggernaut common specialty listed earlier).
   * Coolness Field \- (Influence booster) Each level of specialization permanently adds 2 bonus attribute points to the Presence of the immortal (like the stat boost of the power can go beyond IPL).
   * Puppetry \- This specialization allows a special Puppetry attack which allows complete control of a target for a few moments. The difficulty of this check is d20 + 2*Puppetry + Influence vs. 2 * Targets Will + 2* Targets Influence (if applicable) + 11. The duration of this power is one action + one action per success made on this roll. When this attack succeeds the Influence immortal's body goes limp.
 
-###   Illusion
+### Illusion
 
 (Senses)
 
@@ -1826,13 +1212,13 @@ Things to note:
   * Extra checks / higher difficulties may be required for Illusions using multiple senses, or if the illusion is just ridiculous (a severe penalty could be a +4 bonus to the Alertness check to see the illusion for what it is), but imagine the glory of creating totally bizzare illusions that others believe to be wholly reality.
   * No skill or stat imitated by the Illusionist via Illusion may be greater than the Power Level * 2.
 
-####   Specialties
+#### Specialties
 
   * Incredible Illusions Add 2 to the maximum attribute or skill that may be mimicked per specialty level (Illusions version of Juggernaut common specialty).
   * Cloak Master \- Each level of this specialization is added to stealth skill, and +1 bonus to their Deflection.
   * More real illusions \- In order for a target to perceive or see through an illusion, each level of this specialty adds 2 to the difficulty. So to see through an illusion they must roll Alertness + WIL + d20 vs. Illusionist’sINT + IllusionPowerLevel + 2*More real illusions level + 11
 
-###  Martial Warfare
+### Martial Warfare
 
 (Combat)
 
@@ -1852,13 +1238,13 @@ power and physical toughness.
   * For each even level of the power (Power levels 2,4,6) a bonus point of Durability and Will is gained.
   * These bonus levels ride on top of the normal attribute and does not affect the ability of an immortal to buy up their attributes to their current Immortal Power Level.
 
-####  Specialties
+#### Specialties
 
   * Super Skilled \- Each level of this specialization adds one bonus skill level to two of the following skills: Acrobatica, Alertness, Melee, Missile, Tactics. This specialty is a enhanced version of the Skilled common specialty (can’t take both).
   * Ultimate Agility \- For each 2 levels of this specialization an AGI bonus point is gained.
   * Enhanced Toughness \- For each 2 levels of this specialization, an attribute bonus of 1 is added to WIL and DUR (1 point per 2 specialty levels).
 
-##   SubPower Details
+## SubPower Details
 
 Starting immortals may choose 3 sub-powers in addition to their primary power.
 Additional sub-powers are gained after every 4 IPL levels. When creating new
@@ -1889,7 +1275,7 @@ less starting skill points).
   * Tinkerer: You are a master of building, creating, and engineering. Tinkerers get a +2 bonus skill levels to the Engineering, Computer Systems, Bio-engineer/Geneticist. This bonus rides on top of the normal skill level. This means that a Tinkerer is NEVER unskilled at constructing items, even if he doesnt have the appropriate skill.
   * Warlord: You are a master of combat and strategy. Warlords get +2 bonus skill levels to the Melee, Missile and Tactics skill. This bonus rides on top of the normal skill level. This means that a warlord is NEVER unskilled at combat, even if he doesnt buy the appropriate skill.
 
-##   Skills Details
+## Skills Details
 
 In addition to Attributes, characters have skills to round out their
 abilities. Starting characters get 2*THT in skill points to assist in
@@ -2025,19 +1411,19 @@ etc).
   * Wood Working: (Agility) Make figures, toys, wooden weapons. Can make a living as a carpenter.
   * Carver: Can craft masterpiece wooden items like the slave elves for Santa, complete with decorative carvings. ( i.e. masterwork quarterstaffs, elaborate furniture, etc).
 
-#   Game Rules
+# Game Rules
 
-##   Basics of The Victus Gaming System
+## Basics of The Victus Gaming System
 
-###   Experience Points
+### Experience Points
 
-####   How Much XP Should Be Given
+#### How Much XP Should Be Given
 
 GMs should give out 15 to 20+ XP per game session, depending on how much was
 accomplished. NPCs (Non-player characters, such as hirelings and companions to
 the PCs) get 5 XP per game.
 
-####   Spending XP
+#### Spending XP
 
 In general, to raise an attribute or skill to the next level, it costs the
 value of the next level in XP. For example, raising a 3 to a 4 costs 4 xp.
@@ -2055,16 +1441,16 @@ sessions or as slow as 30 or more sessions).
 Raising Grit or an Immortal Power is more expensive - it costs twice the next
 level in XP. So, to raise a power from 4 to 5, it will cost 10XP.
 
-###   Attributes, Powers, and Skills
+### Attributes, Powers, and Skills
 
 Attributes: Basic inherent character abilities. Powers: Reality bending
 abilities gained from the Immortality Process. Skills: Learned abilities.
 
-####   How to Make Power Checks
+#### How to Make Power Checks
 
 Power + d20 vs. ATT + SKILL + 11
 
-####   How to Make Skill Checks
+#### How to Make Skill Checks
 
 Having a skill at Level 1 means that you are a novice in that skill. (In the
 case of trade skills, such as smithing, this means that you can hold down a
@@ -2107,37 +1493,15 @@ NU=not unskilled). When a check is required the target rolls d20. A roll of a
 10+). A roll of 20 is an automatic success except in the case of a crack trip
 difficulty.
 
-Skill /Action Check
-
-Difficulty Number
-
-Easy
-
-8
-
-Sub-Par
-
-14
-
-Average
-
-18
-
-Tough
-
-22
-
-Very Difficult
-
-26
-
-Damn-Near Impossible
-
-30
-
-Crack-Trip (Need skill 10+ to attempt)
-
-34+
+| Skill /Action Check | Difficulty Number |
+| ------------------- | ----------------- |
+| Easy                | 8                 |
+| Sub-Par             | 14                |
+| Average             | 18                |
+| Tough               | 22                |
+| Very Difficult      | 26                |
+| Damn-Near Impossible| 30                |
+| Crack-Trip (Need skill 10+ to attempt) | 34+ |
 
 For example, Bob Rica wants to leap off a moving bus traveling at 30 mph and
 grab onto a car roof during an ice storm, open the passenger door and sit down
@@ -2171,7 +1535,7 @@ roll can be earned only once). Very powerful COTAs can do this sort of thing
 routinely; remember they have powers and abilities that boggle the mortal
 mind.
 
-##   Combat
+## Combat
 
 Combat is fast and vicious in the Victus Game system. Rounds are 1 second
 long, which means that most battles are over in 3 to 5 seconds; it doesnt take
@@ -2189,7 +1553,7 @@ event, “I blaze away with my harpoon gun at the first target through the
 door”. Or they may delay all their actions until after an event happens, “I
 delay my initiative until the first guy comes into the room”.
 
-###   Attacking
+### Attacking
 
 An attack succeeds if the attackers HIT value is equal to or greater than the
 opposing characters TARGET value (which can be determined by their EVADE or
@@ -2266,7 +1630,7 @@ find mounted on a spaceship), it'd be 4 points of damage minimum.
 Underwater or foriegn environment gives attackers a -4 to hit roll, and -4 to
 base damage.
 
-###   DR Damage Resistance
+### DR Damage Resistance
 
 Damage can be absorbed by DR (which stands for Damage Resistance). Characters
 may have DR to two types of damage in COTA, Physical and Mental.
@@ -2285,7 +1649,7 @@ Drowning or suffocation damage is d6 per round bypassing all DR. Falling
 damage is 1 point per 10ft fallen, maximized at 20 points for terminal
 velocity.
 
-###   Effects of Damage
+### Effects of Damage
 
 When a character is damaged to 0 hit points or lower they are normally
 unconscious. When a character is damaged past their negative Durability they
@@ -2298,7 +1662,7 @@ damaged past it's maximum hitpoints it is utterly annhilated (i.e. if a
 Android with 24 maximum hit points is damaged to -25HP or lower it is
 annhilated, simple repair won't work it'll need to be rebuilt from scratch).
 
-###   Grapple Rules
+### Grapple Rules
 
 An attacker can attempt to grapple a single opponent effectively grabbing them
 and holding them in place. With a single action first roll to hit the target,
@@ -2324,7 +1688,7 @@ strength in damage. Shapeshifter/Energy Creators have an effective strength
 determined by the better of Strength + power level or the effective strength
 of the power (2*Power level).
 
-###   Ship to Ship Combat Example
+### Ship to Ship Combat Example
 
 Ships are piloted and gunned by neural interfaces, using the better of the
 pilots THT or AGI
@@ -2362,59 +1726,21 @@ But when a critical hit is scored at least 1 point is done per weapon so only
 four damage (the number of Heavy Rifles in a battery) would have been done. This
 damage can still add up but doesn't put the dreadnought in immediate jeopardy.
 
-###   Structure DR reference table
+### Structure DR reference table
 
 Some standard DR/HP for structures:
 
-Structure
+| Structure | DR | HP |
+| --------- | -- | -- |
+| Normal Building (small) | 10 | 24 |
+| Large Building (10 stories) | 12 | 40 |
+| Giant Towers (100 stories+) | 16 | 60 |
+| Military Base | 20 | 60 |
+| Huge Military Base | 28 | 80 |
+| Moon or Space Station with Shields | 40 | 400 (regen 10 HP/round gravity) |
+| Earth Sized Planet | 60 | 1000 (regen 20 HP/round gravity/geothermal activity) |
 
-DR
-
-HP
-
-Normal Building (small)
-
-10
-
-24
-
-Large Building (10 stories)
-
-12
-
-40
-
-Giant Towers (100 stories+)
-
-16
-
-60
-
-Military Base
-
-20
-
-60
-
-Huge Military Base
-
-28
-
-80
-
-Moon or Space Station with Shields
-
-40
-
-400 (regen 10 HP/round gravity)
-
-Earth Sized Planet
-
-60
-
-1000 (regen 20 HP/round gravity/geothermal activity)
-
-###   Computer Combat
+### Computer Combat
 
 Handle computer combat as follows. Base Initiative is the d6 + THT (the melee
 mastery QuickDraw and the missile mastery Quick Shot dont apply to computer
@@ -2452,7 +1778,7 @@ system entry point has also been identified. Good banks will have systems with
 stats and skill of 10 or 12. Military systems tend to have stats and skills of
 14+.
 
-###   Combat Movement
+### Combat Movement
 
 During comat, a character can move at his normal movement speed at the cost of
 one action (either walking, jogging, sprinting, using a power, or otherwise).
@@ -2465,43 +1791,21 @@ Movement occurs in initiative order unless the initiative winner forces his
 opponents to move first (usually a good idea unless your racing for a doorway
 etc.) and occurs before attacks.
 
-###   Interactions and Contests Difficulty Tables
+### Interactions and Contests Difficulty Tables
 
 Difficulty Target numbers for rolls
 
-Skill / Action Check
+| Skill /Action Check | Difficulty Number |
+| ------------------- | ----------------- |
+| Easy                | 8                 |
+| Sub-Par             | 14                |
+| Average             | 18                |
+| Tough               | 22                |
+| Very Difficult      | 26                |
+| Damn-Near Impossible| 30                |
+| Crack-Trip (Need skill 10+ to attempt) | 34+ |
 
-Difficulty Number
-
-Easy
-
-8
-
-Sub-Par
-
-14
-
-Average
-
-18
-
-Tough
-
-22
-
-Very Difficult
-
-26
-
-Damn-Near Impossible
-
-30
-
-Crack-Trip
-
-34+
-
-#   Equipment
+# Equipment
 
 Equipment is divided into the following categories: General Equipment,
 Vehicles, Space Ships, and Weapons and Armor. Following the equipment lists is
@@ -2731,659 +2035,270 @@ or about 57,200 miles per hour
 
 ##   General Equipment
 
-Antigrav Backpack / Hoverboard: A large, camping sized, waterproof and durable
-back pack. Removes all encumbrance for items stored within it, up to 1200
-pounds. A charge on an Antigrav pack will last for about a week.
+```markdown
+### Antigrav Backpack / Hoverboard
+
+A large, camping-sized, waterproof and durable backpack. Removes all encumbrance for items stored within it, up to 1200 pounds. A charge on an Antigrav pack will last for about a week.
+
+| Attribute       | Value                                   |
+|-----------------|-----------------------------------------|
+| Cost            | 1200 sands                              |
+| Required Skills | Power Systems, Electrical Engineering   |
+| Weight          | 0                                       |
+| Difficulty      | 20                                      |
+| Tech Level      | 4                                       |
+| Time            | 4 days                                  |
+
+### Booster Pack
+
+A large rocket pack that can carry up to 640 lbs at high velocity (effective strength 10). The speed is 10 yards per vehicle agility point per second. Vehicle agility is 10 (can be raised up to 20 bumping difficulty by 1 and cost by +50% per point, yielding a max speed of 200 yards/sec which is pretty damaging to an unprotected passenger). Use the Pilot starship skill. Raise the construction difficulty by 1 point per vehicle agility point over 10, and +1 week of construction time per point. The cost increases by +50% per difficulty point over the base.
+
+| Attribute       | Value                                           |
+|-----------------|-------------------------------------------------|
+| Cost            | 2000 sands                                      |
+| Required Skills | Power Systems, Electrical Engineering, Mechanical Engineering |
+| Weight          | 20 lbs.                                         |
+| Difficulty      | 22                                              |
+| Tech Level      | 4                                               |
+| Time            | 1 week                                          |
+
+### Portable Washer
+
+A sterilizing beam, which can also shake out dust and dirt with an ultrasound emission.
+
+| Attribute       | Value                     |
+|-----------------|---------------------------|
+| Cost            | 400 sands                 |
+| Required Skills | Power Systems             |
+| Weight          | 1 lb.                     |
+| Difficulty      | 20                        |
+| Tech Level      | 1                         |
+| Time            | 1 day                     |
+
+### Programs
+
+Computer software, which mimics skills.
+
+| Attribute       | Value                                   |
+|-----------------|-----------------------------------------|
+| Cost            | 10 sands per skill level mimicked       |
+| Required Skills | Computer Systems, skill mimicked        |
+| Weight          | N/A                                     |
+| Difficulty      | 14 + skill level mimicked               |
+| Tech Level      | 2                                       |
+| Time            | 1 day per skill point                   |
+
+### Food Replicator
+
+A device that is about the size of a microwave oven but colored bright purple (cannot be recolored or painted over). Replicated preprogrammed meals. Takes about 2 sands worth of power per replication.
+
+| Attribute       | Value                           |
+|-----------------|---------------------------------|
+| Cost            | 1500 sands                      |
+| Required Skills | Power Systems, Chemistry        |
+| Weight          | 5 lbs.                          |
+| Difficulty      | 16                              |
+| Tech Level      | 4                               |
+| Time            | 8 hours                         |
+
+### AI-Artificial Intelligence
+
+An AI with THT, WIL and Max skill equal to characters Comp Systems 1 can be created. The time to create an AI is 1 week per the THT + WIL. Starting skill points equal 2XTHT as per normal characters although instead of level 6 the maximum starting skill level is Comp Systems skillCreator -1. As an example a bank AI with 8 THT, 8 WIL requires 8+8 or 16 weeks (and the AI begins with 16 skill points). Electrokinesis immortals can do this in 1/60th the time at power level 1, 1/120th the time at power level 2 etc. (similar to Matter creation table). AIs can also create/manipulate AIs in 1/60th the time. The difficulty is Thought+Will+11. The cost for an AI is 10(THT + WIL)/2. So an elite military grade AI with 12 THT and WIL costs 1e12 or 1 trillion sands. AIs with a 11 or higher THT or WIL are outlawed in the private sector and require special permits. AIs with THT, WIL in the 4-6 range are prevalent throughout free space and link space. The have a default presence of one.
+
+| Attribute       | Value                                                        |
+|-----------------|--------------------------------------------------------------|
+| Cost            | 10(THT + WIL) / 2                                            |
+| Required Skills | Computer Systems                                             |
+| Weight          | N/A                                                          |
+| Difficulty      | THT + WIL + 11                                               |
+| Tech Level      | 6 (10 CS for AI)                                             |
+| Time            | 1 week per THT + WIL                                         |
+
+### Android
+
+Completely loyal. Self-repairing, can store a lot of facts and useless trivia, and can learn up to 2*THT levels of skills. STR:10 AGI:10 INT:AI Dependent WIL: AI Dependent PRS:4 DUR:12. More powerful android frames have been constructed (for each point of STR, AGI and/or DUR up to 6 above the listed values add 1 to the difficulty and +50% to the price).
+
+| Attribute       | Value                                                        |
+|-----------------|--------------------------------------------------------------|
+| Cost            | 500,000 sands (AI purchased separately), and the ridicule of all your neighbors |
+| Required Skills | Power Systems, Electrical Engineering, Mechanical Engineering, Chemistry |
+| Weight          | 500 lbs.                                                     |
+| Difficulty      | 26                                                           |
+| Tech Level      | 6 (10 CS for AI)                                             |
+| Time            | 4 weeks                                                      |
+
+### Robot
+
+Basic humanoid or otherwise. These are simple bots with simple programming. They can perform duties such as cleaning, simple combat, and monitoring. They have the following stats: STR:4 AGI:4 INT:0 WIL:0 PRS:0 DUR:4
+
+| Attribute       | Value                                                        |
+|-----------------|--------------------------------------------------------------|
+| Cost            | 1000 sands                                                   |
+| Required Skills | Power Systems, Electrical Engineering, Mechanical Engineering, Chemistry, Computer Systems |
+| Weight          | 100 lbs.                                                     |
+| Difficulty      | 20                                                           |
+| Tech Level      | 2                                                            |
+| Time            | 1 week                                                       |
+
+### Neoglasses
+
+Multispectrum goggles. Looks like a cool pair of sunglasses, and enables the wearer to see in visible, UV, Infrared, X-ray, and Magnetic spectrums. Can also function as a microscope (400x) or telescope (400x), note that normal visual range can be up to a mile or more. Nearly indestructible. Battery life is 1 month.
+
+| Attribute       | Value                        |
+|-----------------|------------------------------|
+| Cost            | 1000 sands                   |
+| Required Skills | Electrical Engineering       |
+| Weight          | 1 lb.                        |
+| Difficulty      | 20                           |
+| Tech Level      | 4                            |
+| Time            | 5 days                       |
+
+### Power Boots
+
+Increases base (walking) movement rate by 4. Thrusters: propels wearer at up to 50 yards/sec for up to 3 hours. Optional magnetics available for Zero-G environments. Effective strength 10.
+
+| Attribute       | Value              |
+|-----------------|--------------------|
+| Cost            | 100 sands          |
+| Required Skills | Power Systems      |
+| Weight          | 2 lbs.             |
+| Difficulty      | 21                 |
+| Tech Level      | 6                  |
+| Time            | 4 days             |
+
+### Cloak Suit
+
+Envelops the wearer in an invisibility field, completely undetectable (although occasionally a slight rippling might be seen). Grants +4 deflection bonus in combat. Generally illegal. Battery life: 8 hours.
+
+| Attribute       | Value                                      |
+|-----------------|--------------------------------------------|
+| Cost            | 1,000,000 sands                            |
+| Required Skills | Power Systems, Electrical Engineering, Chemistry |
+| Weight          | 3 lbs.                                     |
+| Difficulty      | 26                                         |
+| Tech Level      | 8                                          |
+| Time            | 4 weeks                                    |
+
+### Shielded Briefcase
+
+Prevents scans from determining the contents of the briefcase. Also reflects back an image of clothing or papers, etc.
+
+| Attribute       | Value                               |
+|-----------------|-------------------------------------|
+| Cost            | 6000 sands                          |
+| Required Skills | Electrical Engineering, Chemistry   |
+| Weight          | 5 lbs.                              |
+| Difficulty      | 22                                  |
+| Tech Level      | 4                                   |
+| Time            | 4 days                              |
+
+## Weapons and Armor
+
+### Plasti-Steele Ceramic Plate Armor
+
+This kind of body armor is usually worn by law enforcement types and military ground troops. It is fairly flexible, strong, and highly impact resistant. This armor is cumulative with skin-based DRs. For every point of damage over the DR (of the armor and any shields the wearer may have, or Energy Control absorption expended) the plate takes 1 point of damage in addition to the wearer possibly getting injured. The number of these durability representing Hit points is 24 before the suit is made useless.
+
+| Attribute       | Value                                 |
+|-----------------|---------------------------------------|
+| Cost            | 500 sands                             |
+| Required Skills | Chemistry, Mechanical Engineering     |
+| DR              | +6                                    |
+| Weight          | 15 lbs.                               |
+| Time            | 2 days                                |
+| Difficulty      | 21                                    |
+| Tech Level      | 4                                     |
+
+### Stealth Suit
+
+A resilient and comfortable light armor. This armor is cumulative with skin-based DRs. For every point of damage over the DR (of the armor and any shields the wearer may
+
+ have, or Energy Control absorption expended) the suit takes 1 point of damage in addition to the wearer possibly getting injured. The number of these durability representing Hit points is 40 before the suit is made useless.
+
+| Attribute       | Value                                 |
+|-----------------|---------------------------------------|
+| Cost            | 500,000 sands                         |
+| Required Skills | Chemistry, Mechanical Engineering     |
+| DR              | +6                                    |
+| Weight          | 8 lbs.                                |
+| Time            | 4 days                                |
+| Difficulty      | 24                                    |
+| Tech Level      | 6                                     |
+
+### Personal Shields
+
+This armor takes the form of a waist belt with straps that reach over the shoulders, and a small pad at the small of your back attached to the belt. It generates an invisible force field around your body, and can be worn under your normal clothing, making it practically undetectable without special equipment. Very popular amongst the rich and the corporate elite, as well as space traders involved in shady businesses. Shielding is effective against all physical and energy attacks.
+
+| Attribute       | Value                                      |
+|-----------------|--------------------------------------------|
+| Cost            | 1,000,000 sands per DR                     |
+| Required Skills | Power Systems, Electrical Engineering      |
+| DR              | up to +4(+8 with EE mastery)               |
+| Weight          | 2 lbs.                                     |
+| Time            | 4 weeks                                    |
+| Difficulty      | 24                                         |
+| Tech Level      | 8                                          |
+
+### Full Body Armor
+
+A Powered Armor suit. Used by extraction teams and for special missions. Some of the more expensive models can have shields built in, personal shields may be extended beyond this close-fitting armor if stronger than any built-in shields. They have an assisted STR of 10 and Vehicle Agility of 10 (This can be increased for the more expensive suits to a normal max of 20 or a max of 28 with power systems mastery). Max running speed is 1 yard/sec per vehicle agility point. To build enhanced suits, it costs an additional week and 1 extra point of difficulty for each vehicle agility point. Variants have been known to exist with multifunctions, such as hover bikes that jet-assisted hops (distance 5 yards x Vehicle Agility, height half this) in robot form (increase difficulty by 2 and add 2 weeks to the construction time). All of these armor suits have 12 DR and 12 hit points. Up to 4 points of shields may be added but they lower the armor agility by 1 point per (although they don't affect the maximum). The cost increases by +50% per difficulty point over the base.
+
+| Attribute       | Value                                 |
+|-----------------|---------------------------------------|
+| Cost            | 1 million sands                       |
+| Required Skills | Power Systems, Electrical Engineering, Chemistry |
+| DR              | 12 (16 with 4 shields)                |
+| HP              | 12                                    |
+| Weight          | 200 lbs.                              |
+| Vehicle Agility | 10                                    |
+| Time            | 2 weeks                               |
+| Difficulty      | 24                                    |
+| Tech Level      | 6 (8 with shields)                    |
+
+### Heavy Robot Armor
+
+A large powered armor robot standing about 7-10 yards. Used by extraction teams and for special missions. Some of the more expensive models can have shields built in. They have an effective STR of 20 and a vehicle Agility of 9 (STR can be increased up to 26, add +1 difficulty per point and +50% of the base cost per point, Agility can be increased for the more expensive suits to a normal max of 18 (2×9) or 26(2×13) with the Power Systems Skill Mastery). Max running speed is 5 yards/sec per vehicle agility point. To build enhanced suits, it costs an additional week and 1 extra point of difficulty for each vehicle agility point. Variants have been known to exist with multi-functions such as star fighters or hover tanks (increase difficulty by 2 and add 4 weeks to the construction time). All of these armor suits have a base of 16 hit points. Up to 6 points of shields may be added. The cost increases is +50% per difficulty point over the base.
+
+| Attribute       | Value                                                        |
+|-----------------|--------------------------------------------------------------|
+| Cost            | 1 billion sands                                              |
+| Required Skills | Chemistry, Mechanical Engineering, Electrical Engineering, Power Systems |
+| DR              | 16 (22 max with shields)                                     |
+| HP              | 16                                                           |
+| Weight          | 30 tons                                                      |
+| Vehicle Agility | Time                                                         |
+| Time            | 4 weeks                                                      |
+| Difficulty      | 25                                                           |
+| Tech Level      | 6 (8 for shields)                                            |
+
+### Cronium Items
+
+Besides being the key ingredient to ultra-powered energy systems, cronium is an incredibly durable substance (it's the weight of adamantium but much stronger). While outrageously expensive, items can be made out of cronium in lieu of the standard materials (cronium plates for plasti-steel armor, cronium threaded stealth suit, or even cronium Heavy Robot Armor). In this way almost any item can be made using cronium. The additional cost is 1e9 credits per 100 lbs (so cronium plate armor costs .15 * 1e9 = +1.5e8). The additional labor cost for working cronium is 10 times this (for the plate armor example its +1.5e9 for the labor). Cronium items have +6 DR, as well as an additional 40 hit points or durability points. The base creation time is multiplied by 8 and the construction difficulty is 6 greater than normal.
+
+#### Cronium Weaponry
+
+| Type            | Difficulty | Time      | Cost per Shot      |
+|-----------------|--------|------------|-----------|--------------------|
+| Pistol          | 30     | 16 days    | 10 million sands |
+| Rifle           | 30     | 16 days    | 10 million sands |
+| Heavy Rifle     | 30     | 16 days    | 10 million sands |
+| Cannon          | 34     | 1 month    | 100 million sands |
+| Assault Cannon  | 38     | 5 months   | 1 billion sands  |
+
+### Demolitions
+
+Grenades with timers and directed blast. Voice or keypad activated. Optionally explodes if tampered with. Generally restricted or black market purchase. Where legal, price is twice that of an equivalent grenade.
+
+### Assault Pod
+
+Air pod which holds up to 6 people. Speed is 1000 yards per Vehicle agility. Once attached to a ship, it cannot be detached, except from inside the pod (unless it is blown off). Effective Str: 20 and space equivalent for 40 human-sized crew (determines carrying capacity). To attach to a ship, roll to hit ship using the fighter pilot skill. Once attached, it burns an access hole into the ship, dissolving the armor at a rate of 1d6 DR a round. Optional: Cloaking for 5 times the cost.
+
+| Attribute       | Value                               |
+|-----------------|-------------------------------------|
+| Flight Agility  | 8                                   |
+| DR              | 14                                  |
+| HP              | 16                                  |
+| Cost            | 1 million sands                     |
 
-Cost
-
-1200 sands
-
-Required Skills
-
-Power Systems, Electrical Engineering
-
-Weight
-
-0
-
-Difficulty
-
-20
-
-Tech Level
-
-4
-
-Time
-
-4 days
-
-Booster Pack: A large rocket pack that can carry up to 640lbs at high velocity
-(effective strength 10). The speed is 10yards per vehicle agility point per
-second. Vehicle agility is 10 (can be raised up to 20 bumping difficulty by 1
-and cost by +50% per point, yielding a max speed of 200 yards/sec which is
-pretty damaging to an unprotected passenger). Use the Pilot starship skill.
-Raise the construction difficulty by 1 point per vehicle agility point over
-10, and +1 week of construction time per point. The cost increases by +50% per
-difficulty point over the base. per point.
-
-Cost
-
-2000 sands
-
-Required Skills
-
-Power Systems, Electical Engineering, Mechanical Engineering
-
-Weight
-
-20 lbs.
-
-Difficulty
-
-22
-
-Tech Level
-
-4
-
-Time
-
-1 week
-
-Portable Washer: A sterilizing beam, which can also shake out dust and dirt
-with an ultrasound emission.
-
-Cost
-
-400
-
-Required Skills
-
-Power Systems
-
-Weight
-
-1 lb.
-
-Difficulty
-
-20
-
-Tech Level
-
-1
-
-Time
-
-1 day
-
-Programs: Computer software, which mimics skills.
-
-Cost
-
-10Skill level mimicked
-
-Required Skills
-
-Computer Systems, skill mimicked
-
-Weight
-
-N/A
-
-Difficulty
-
-14+skill level mimicked
-
-Tech Level
-
-2
-
-Time
-
-1 day per skill point
-
-Food Replicator: A device that is about the size of a microwave oven but
-colored bright purple (cannot be recolored or painted over). Replicated
-preprogrammed meals. Takes about 2 sands worth of power per replication.
-
-Cost
-
-1500
-
-Required Skills
-
-Power Systems, Chemistry
-
-Weight
-
-5 lbs.
-
-Difficulty
-
-16
-
-Tech Level
-
-4
-
-Time
-
-8 hours
-
-AI-Artificial Intelligence: An AI with THT, WIL and Max skill equal to
-characters Comp Systems 1 can be created. The time to create an AI is 1 week
-per the THT + WIL. Starting skill points equal 2XTHT as per normal characters
-although instead of level 6 the maximum starting skill level is Comp Systems
-skillCreator -1. As an example a bank AI with 8 THT, 8 WIL requires 8+8 or 16
-weeks (and the AI begins with 16 skill points). Electrokinesis immortals can
-do this in 1/60th the time at power level 1, 1/120th the time at power level 2
-etc. (similar to Matter creation table). AIs can also create/manipulate AIs in
-1/60th the time. The difficulty is Thought+Will+11. The cost for an AI is
-10(THT + WIL)/2. So an elite military grade AI with 12 THT and WIL costs 1e12
-or 1 trillion sands. AIs with a 11 or higher THT or WIL are outlawed in the
-private sector and require special permits. AIs with THT, WIL in the 4-6 range
-are prevalent throughout free space and link space. The have a default
-presence of one.
-
-Cost
-
-10(THT+WIL)/2
-
-Required Skills
-
-Computer Systems
-
-Weight
-
-N/A
-
-Difficulty
-
-THT+WIL+11
-
-Tech Level
-
-6 (10 CS for AI)
-
-Time
-
-4 weeks
-
-Android: Completely loyal. Self-repairing, can store a lot of facts and
-useless trivia, and can learn up to 2*THT levels of skills. STR:10 AGI:10
-INT:AI Dependent WIL: AI Dependent PRS:4 DUR:12. More powerful android frames
-have been constructed (for each point of STR, AGI and/or DUR up to 6 above the
-listed values add 1 to the difficulty and +50% to the price).
-
-Cost
-
-500,000 sands (AI purchased separately), and the ridicule of all your
-neighbors.
-
-Required Skills
-
-Power Systems, Electrical Engineering, Mechanical Engineering, Chemistry
-
-Weight
-
-500 lbs.
-
-Difficulty
-
-26
-
-Tech Level
-
-6 (10 CS for AI)
-
-Time
-
-4 weeks
-
-Robot: Basic humanoid or otherwise. These are simple bots with simple
-programming. They can perform duties such as cleaning, simple combat, and
-monitoring. They have the following stats: STR:4 AGI:4 INT:0 WIL:0 PRS:0 DUR:4
-
-Cost
-
-1000
-
-Required Skills
-
-Power Systems, Electrical Engineering, Mechanical Engineering, Chemistry,
-Computer Systems
-
-Weight
-
-100 lbs.
-
-Difficulty
-
-20
-
-Tech Level
-
-2
-
-Time
-
-1 week
-
-Neoglasses: Multispectrum goggles. Looks like a cool pair of sunglasses, and
-enables the wearer to see in visible, UV, Infrared, X-ray, and Magnetic
-spectrums. Can also function as a microscope (400x) or telescope (400x), note
-that normal visual range can be up to a mile or more. Nearly indestructible.
-Battery life is 1 month.
-
-Cost
-
-1000 sands
-
-Required Skills
-
-Electrical Engineering
-
-Weight
-
-1 lb.
-
-Difficulty
-
-20
-
-Tech Level
-
-4
-
-Time
-
-5 days
-
-Power Boots: Increases base (walking) movement rate by 4. Thrusters: propels
-wearer at up to 50yards/sec for up to 3 hours. Optional magnetics available
-for Zero-G environments. Effective strength 10.
-
-Cost
-
-100
-
-Required Skills
-
-Power Systems
-
-Weight
-
-2 lbs.
-
-Difficulty
-
-21
-
-Tech Level
-
-6
-
-Time
-
-4 days
-
-Cloak Suit: Envelops the wearer in an invisibility field, completely
-undetectable (although occasionally a slight rippling might be seen). Grants
-+4 deflection bonus in combat. Generally illegal. Battery life: 8 hours.
-
-Cost
-
-1,000,000
-
-Required Skills
-
-Power Systems, Electrical Engineering, Chemistry
-
-Weight
-
-3 lbs.
-
-Difficulty
-
-26
-
-Tech Level
-
-8
-
-Time
-
-4 weeks
-
-Shielded Briefcase: Prevents scans from determining the contents of the
-briefcase. Also reflects back an image of clothing or papers, etc.
-
-Cost
-
-6000
-
-Required Skills
-
-Electrical Engineering, Chemistry
-
-Weight
-
-5 lbs.
-
-Difficulty
-
-22
-
-Tech Level
-
-4
-
-Time
-
-4 days
-
-##   Weapons and Armor
-
-Plasti-Steele Ceramic plate armor: This kind of body armor is usually work by
-law enforcement types and military ground troops. It is fairly flexible,
-strong, and highly impact resistant. This armor is cumulative with skin-based
-DRs. For every point of damage over the DR (of the armor and any shields the
-wearer may have, or Energy Control absorption expended) the plate takes 1
-point of damage in addition to the wearer possibly getting injured. The number of
-these durability representing Hit points is 24 before the suit is made
-useless.
-
-Required Skills
-
-Chemistry, Mechanical Engineering
-
-Cost
-
-500
-
-DR
-
-+6
-
-Weight
-
-15 lbs
-
-Time
-
-2 days
-
-Difficulty
-
-21
-
-Tech Level
-
-4
-
-Stealth Suit: A resilient and comfortable light armor. This armor is
-cumulative with skin-based DRs. For every point of damage over the DR (of the
-armor and any shields the wearer may have, or Energy Control absorption
-expended) the suit takes 1 point of damage in addition to the wearer possibly
-getting injured. The number of these durability representing Hit points is 40
-before the suit is made useless.
-
-Required Skills
-
-Chemistry, Mechanical Engineering
-
-Cost
-
-500,000
-
-DR
-
-+6
-
-Weight
-
-8 lbs.
-
-Time
-
-4 days
-
-Difficulty
-
-24
-
-Tech Level
-
-6
-
-Personal Shields: This armor takes the form of a waist belt with straps that
-reach over the shoulders, and a small pad at the small of your back attached
-to the belt. It generates an invisible force field around your body, and can
-be worn under your normal clothing, making it practically undetectable without
-special equipment. Very popular amongst the rich and the corporate elite, as
-well as space traders involved in shady businesses. Shielding is effective
-against all physical and energy attacks.
-
-Required Skills
-
-Power systems, Electrical Engineering
-
-Cost
-
-1,000,000 per DR
-
-DR
-
-up to +4(+8 with EE mastery)
-
-Weight
-
-2 lbs.
-
-Time
-
-4 weeks
-
-Difficulty
-
-24
-
-Tech Level
-
-8
-
-Full Body Armor: A Powered Armor suit. Used by extraction teams and for
-special missions. Some of the more expensive models can have shields built in,
-personal shields may be extended beyond this close fitting armor if stronger
-than any built in shields. They have an assisted STR of 10 and Vehicle Agility
-of 10 (This can be increased for the more expensive suits to a normal max of
-20 or a max of 28 with power systems mastery). Max running speed is 1 yard/sec
-per vehicle agility point. To build enhanced suits, it costs an additional
-week and 1 extra points of difficulty for each vehicle agility point. Variants
-have been known to exist with multifunctions, such as hover bikes that jet
-assisted hops (distance 5yards x Vehicle Agility, height half this) in robot
-form (increase difficulty by 2 and add 2 weeks to the construction time). All
-of these armor suits have 12DR and 12 hit points. Up to 4 points of shields
-may be added but they lower the armor agility by 1 point per (although they
-dont affect the maximum). The cost increases by +50% per difficulty point over
-the base.
-
-Required Skills
-
-Power systems, Electrical Engineering, Chemistry
-
-Cost
-
-1 million
-
-DR
-
-12(16 with 4 shields)
-
-HP
-
-12
-
-Weight
-
-200lbs
-
-Vehicle Agility
-
-10
-
-Time
-
-2 weeks
-
-Difficulty
-
-24
-
-Tech Level
-
-6 (8 with shields)
-
-Heavy Robot Armor: A large powered armor robot standing about 7-10yards. Used
-by extraction teams and for special missions. Some of the more expensive
-models can have shields built in. They have an effective STR of 20 and an
-vehicle Agility of 9 (STR can be increased up to 26, add +1 difficulty per
-point and +50% of the base cost per point, Agility can be increased for the
-more expensive suits to a normal max of 18 (2×9) or 26(2×13) with the Power
-Systems Skill Mastery). Max running speed is 5 yards/sec per vehicle agility
-point. To build enhanced suits, it costs an additional week and 1 extra points
-of difficulty for each vehicle agility point. Variants have been known to
-exist with multi-functions such as star fighters or hover tanks (increase
-difficulty by 2 and add 4 weeks to the construction time). All of these armor
-suits have a base of 16 hit points. Up to 6 points of shields may be added.
-The cost increases is +50% per difficulty point over the base.
-
-Required Skills
-
-Chemistry, Mechanical Engineering, Electrical Engineering*, Power Systems*
-
-Cost
-
-1 billion
-
-DR
-
-16 (22 max with shields)
-
-HP
-
-16
-
-Weight
-
-30 tons
-
-Vehicle Agility
-
-Time
-
-4 weeks
-
-Difficulty
-
-25
-
-Tech Level
-
-6 (8 for shields)
-
-Cronium ItemsBesides being the key ingredient to ultra powered energy systems,
-cronium is an incredibly durably substance (its the weight of adamantium but
-much stronger). While outrageously expensive, items can be made out of cronium
-in lieu of the standard materials (cronium plates for plasti-steel armor,
-cronium threaded stealth suit, or even cronium Heavy Robot Armor). In this way
-almost any item can be made using cronium. The additional cost is 1e9 credits
-per 100lbs (so cronium plate armor costs .15 * 1e9 = +1.5e8). The additional
-labor cost for working cronium is 10 times this (for the plate armor example
-its +1.5e9 for the labor). Cronium items have +6 DR, as well as an additional
-40 hit points or durability points. The base creation time is multiplied by 8
-and the construction difficulty is 6 greater than normal.
-
-Cronium Weaponry
-
-Damage
-
-Difficulty
-
-Time
-
-Cost per shot
-
-Pistol
-
-30
-
-16 days
-
-10 million
-
-Rifle
-
-30
-
-16 days
-
-10 million
-
-Heavy Rifle
-
-30
-
-16 days
-
-10 million
-
-Cannon
-
-34
-
-1 month
-
-100 million
-
-Assault Cannon
-
-38
-
-5 months
-
-1 billion
-
-Demolitions: Grenades with timers and directed blast. Voice or key pad
-activated. Optionally explodes if tampered with. Generally restricted or black
-market purchase. Where legal, price is twice that of an equivelant grenade.
-
-Assault Pod: Air pod which holds up to 6 people. Speed is 1000yards*Vehicle
-agility. Once attached to a ship, it can not be detached, except from inside
-the pod (unless it is blown off). Effective Str:20 and space equivelant for 40
-human sized crew (determines carrying capacity). To attach to a ship, roll to
-hit ship using the fighter pilot skill. Once attached, it burns a access hole
-into the ship, dissolving the armor at a rate of 1d6 dr a round. Optional:
-Cloaking for 5 times the cost.
-
-Flight Agility
-
-8
-
-DR
-
-14
-
-HP
-
-16
-
-Cost
-
-1 million
 
 Laser, Plasma, Cronium Melee Variants: These are battery powered charged
 weapon hilts that become full weapons when activated. The Base damage for one
@@ -3413,349 +2328,28 @@ Construction time for Rifles and Heavy rifles is equal to pistol construction
 time. Cannons require 2X the time, and are +4 difficulty. Assault Cannons
 require 10X the time, and are +8 difficulty.
 
-Weapon
-
-Damage
-
-Ammunition
-
-Cost
-
-Tech Level Required
-
-Difficulty to Construct
-
-Mass
-
-Effective Range
-
-Construction Time
-
-Mag Pistol (Base Weapon)
-
-10
-
-20 slugs
-
-100
-
-2
-
-17
-
-3lbs
-
-100 yards
-
-2 days
-
-Laser Pistol
-
-12
-
-25 beams
-
-1000
-
-4
-
-20
-
-3lbs
-
-500 yards
-
-4 days
-
-Plasma Pistol
-
-14
-
-20 blasts
-
-5000
-
-6
-
-24
-
-3lbs
-
-200 yards
-
-4 days
-
-Cronium Pistol
-
-20
-
-20 blasts
-
-1e8
-
-10
-
-32
-
-3lbs
-
-500 yards
-
-4 days
-
-One-Handed Melee Weapon
-
-Str+2
-
--
-
-100
-
-2
-
-17
-
-4lbs
-
-1 yard
-
-1 days
-
-Two-Handed Melee Weapon
-
-Str+4
-
--
-
-200
-
-2
-
-19
-
-8lbs
-
-1 yard
-
-1 days
-
-Small Weapon (knife)
-
-Str+1
-
--
-
-20
-
-1
-
-16
-
-1lbs
-
-1 yard (10+Str yards thrown)
-
-4 hours
-
-Punch/Kick
-
-Str (stun damage)
-
--
-
--
-
--
-
--
-
--
-
-1 yard
-
--
-
-Laser Weapon (melee)
-
-Base+2
-
-Battery:1hr, minimum 10min
-
-500
-
-4
-
-20
-
-same as weapon
-
-1 yard
-
-2 days
-
-Plasma Weapon (melee)
-
-Base+4
-
-Battery:1hr, minimum 10min
-
-2000
-
-6
-
-24
-
-same as weapon
-
-1 yard
-
-4 days
-
-Cronium Weapon (melee)
-
-Base+10
-
-Battery:1hr, minimum 10min
-
-1e8 per battery
-
-10
-
-32
-
-same as weapon
-
-1 yard
-
-2 weeks
-
-Concussive Grenade
-
-10
-
-1 per
-
-50
-
-2
-
-20
-
-2lbs
-
-10+Str yards thrown (5 yard radius)
-
-1 day
-
-Photon Grenade
-
-12
-
-1 per
-
-250
-
-4
-
-22
-
-2lbs
-
-10+Str yards thrown (5 yard radius)
-
-2 days
-
-Plasma Grenade
-
-14
-
-1 per
-
-500
-
-6
-
-24
-
-2lbs
-
-10+Str yards thrown (5 yard radius)
-
-2 days
-
-Nuclear Grenade
-
-20
-
-1 per
-
-1e6
-
-4
-
-26
-
-2lbs
-
-10+Str yards thrown (5 yard radius)
-
-2 weeks
-
-Tactical Nuclear Explosive
-
-30
-
-1 per
-
-10e6
-
-4
-
-28
-
-50lbs
-
-Dependend on launcher (200 yard radius)
-
-4 weeks
-
-Full Nuclear Blast
-
-40
-
-1 per
-
-100e6
-
-4
-
-28
-
-500lbs
-
-Dependend on launcher (2000 yard radius)
-
-16 weeks
-
-Anti-Matter Bomb
-
-60
-
-1 per
-
-100e9
-
-10
-
-32
-
-1000lbs
-
-Dependend on launcher (1000 mile radius)
-
-52 weeks
-
-####   Automatic fire rules
+| Weapon | Damage | Ammunition | Cost | Tech Level Required | Difficulty to Construct | Mass | Effective Range | Construction Time |
+| ------ | ------ | ---------- | ---- | ------------------- | ----------------------- | ---- | --------------- | ----------------- |
+| Mag Pistol (Base Weapon) | 10 | 20 slugs | 100 | 2 | 17 | 3lbs | 100 yards | 2 days |
+| Laser Pistol | 12 | 25 beams | 1000 | 4 | 20 | 3lbs | 500 yards | 4 days |
+| Plasma Pistol | 14 | 20 blasts | 5000 | 6 | 24 | 3lbs | 200 yards | 4 days |
+| Cronium Pistol | 20 | 20 blasts | 1e8 | 10 | 32 | 3lbs | 500 yards | 4 days |
+| One-Handed Melee Weapon | Str+2 | - | 100 | 2 | 17 | 4lbs | 1 yard | 1 days |
+| Two-Handed Melee Weapon | Str+4 | - | 200 | 2 | 19 | 8lbs | 1 yard | 1 days |
+| Small Weapon (knife) | Str+1 | - | 20 | 1 | 16 | 1lbs | 1 yard (10+Str yards thrown) | 4 hours |
+| Punch/Kick | Str (stun damage) | - | - | - | - | - | 1 yard | - |
+| Laser Weapon (melee) | Base+2 | Battery:1hr, minimum 10min | 500 | 4 | 20 | same as weapon | 1 yard | 2 days |
+| Plasma Weapon (melee) | Base+4 | Battery:1hr, minimum 10min | 2000 | 6 | 24 | same as weapon | 1 yard | 4 days |
+| Cronium Weapon (melee) | Base+10 | Battery:1hr, minimum 10min | 1e8 per battery | 10 | 32 | same as weapon | 1 yard | 2 weeks |
+| Concussive Grenade | 10 | 1 per | 50 | 2 | 20 | 2lbs | 10+Str yards thrown (5 yard radius) | 1 day |
+| Photon Grenade | 12 | 1 per | 250 | 4 | 22 | 2lbs | 10+Str yards thrown (5 yard radius) | 2 days |
+| Plasma Grenade | 14 | 1 per | 500 | 6 | 24 | 2lbs | 10+Str yards thrown (5 yard radius) | 2 days |
+| Nuclear Grenade | 20 | 1 per | 1e6 | 4 | 26 | 2lbs | 10+Str yards thrown (5 yard radius) | 2 weeks |
+| Tactical Nuclear Explosive | 30 | 1 per | 10e6 | 4 | 28 | 50lbs | Dependend on launcher (200 yard radius) | 4 weeks |
+| Full Nuclear Blast | 40 | 1 per | 100e6 | 4 | 28 | 500lbs | Dependend on launcher (2000 yard radius) | 16 weeks |
+| Anti-Matter Bomb | 60 | 1 per | 100e9 | 10 | 32 | 1000lbs | Dependend on launcher (1000 mile radius) | 52 weeks |
+
+#### Automatic fire rules
 
 All rifles and pistols may be fired in auto mode, most cannons may not be
 fired in this mode. Unloading a burst at a target not only gives the shooter a
@@ -3768,7 +2362,7 @@ a -2 to hit modifier, a single attack roll is applied separately to each
 target chosen. It also takes 6 shots and may hit 1d6 targets within a 180 arc
 in front of the shooter.
 
-##   Planetary Vehicles
+## Planetary Vehicles
 
 Vehicles have a maximum evasion capability based on their design. The max
 evade is equal to 11 + Vehicle Agility. So for a vehicle with a 8-vehicle
@@ -3780,91 +2374,38 @@ Unless otherwise noted the maximum vehicle agility is 2 times their listed
 base or starting vehicle agility (most vehicles in COTA have a base vehicle
 agility of 8 with a max vehicle agility of 16).
 
-HoverTank: vehicle agility: 9, Effective strength of 20. Single Cannon
-depending on tank type and a heavy rifle usually of the same type, which is
-attached to the top for anti-personnel. Both weapons are aimed internally by
-one pilot and 2 gunners, but a single pilot may also man both guns. Speed is
-10 yards/sec per vehicle agility point. Add 1-week construction time for each
-shield point.
+### HoverTank
 
-Required Skills
+A vehicle with vehicle agility of 9 and an effective strength of 20. It has a single cannon depending on the tank type and a heavy rifle usually of the same type, which is attached to the top for anti-personnel. Both weapons are aimed internally by one pilot and 2 gunners, but a single pilot may also man both guns. Speed is 10 yards/sec per vehicle agility point. Add 1-week construction time for each shield point.
 
-Power Systems (PS), Electrical Engineering (EE), Chemistry (C), Mechanical
-Engineering (ME), and Computer Systems (CS)
+| Attribute       | Value                                                        |
+|-----------------|--------------------------------------------------------------|
+| Required Skills | Power Systems (PS), Electrical Engineering (EE), Chemistry (C), Mechanical Engineering (ME), and Computer Systems (CS) |
+| Cost            | 50e6                                                         |
+| DR              | 16 (20 with shields)                                         |
+| HP              | 16                                                           |
+| Weight          | 20 tons                                                      |
+| Vehicle Agility | 9                                                            |
+| Time            | 4 weeks                                                      |
+| Difficulty      | 19                                                           |
+| Tech Level      | 4 (8 in EE and PS with shields)                              |
 
-Cost
+### Patrol Hover Car
 
-50e6
+A lightly armored hover car commonly used by security forces for riot suppression and by police forces. It has 8 (12 with shields) DR, 12 hit points, Effective Strength of 14, and a vehicle agility of 10. Speed is 10 yards/sec per vehicle agility point. Damage: 10+/14+ (Ramming, Maglev Heavy Guns X 2).
 
-DR
+| Attribute       | Value                                                        |
+|-----------------|--------------------------------------------------------------|
+| Required Skills | Power Systems (PS), Mechanical Engineering, Computers (+ Electrical Engineering (EE) with shields) |
+| Cost            | 20,000                                                       |
+| DR              | 8 (12 with shields)                                          |
+| HP              | 12                                                           |
+| Weight          | 2,000 lbs                                                    |
+| Vehicle Agility | 10                                                           |
+| Time            | 1 week                                                       |
+| Difficulty      | 18                                                           |
+| Tech Level      | 2 (8 EE and PS with shields)                                 |
 
-16 (20 with shields)
-
-HP
-
-16
-
-Weight
-
-20tons
-
-Vehicle Agility
-
-9
-
-Time
-
-4 weeks
-
-Difficulty
-
-19
-
-Tech Level
-
-4 (8 in EE and PS with shields)
-
-Patrol Hover Car: 8 (12 with shields) DR, 12 hit points, Effective Strength:
-14,vehicle agility:10, Speed is 10 yards/sec per vehicle agility point. Dam:
-10+/14+ (Ramming, Maglev Heavy Guns X 2). Lightly armored hover car commonly
-used by security forces for riot suppression and by police forces.
-
-Required Skills
-
-Power Systems (PS), Mechanical Engineering, Computers (+ Electrical
-Engineering (EE) with shields)
-
-Cost
-
-20,000
-
-DR
-
-8 (12 with shields)
-
-HP
-
-12
-
-Weight
-
-2,000lbs
-
-Vehicle Agility
-
-10
-
-Time
-
-1 week
-
-Difficulty
-
-18
-
-Tech Level
-
-2 (8 EE and PS with shields)
 
 ##   Space Ships
 
@@ -4031,445 +2572,32 @@ maximum time bonus they can get +10) they'd be d20+32 and only need a roll of
 3 (even after all this time with this large group working the revolutionary
 tech fighter may be flawed 15% of the time).
 
-Space Fighter: Size Class:0, Cronium drive systems
-
-Cost
-
-1 billion
-
-DR
-
-14 (18 with shields)
-
-HP
-
-16
-
-Weight
-
-10 tons
-
-Vehicle Agility
-
-10
-
-Time
-
-4 weeks
-
-Difficulty
-
-21
-
-Tech Level
-
-6 (8 in EE & PS with shields)
-
-Size
-
-7-10yards
-
-Weapons
-
-2 Heavy rifles mounted
-
-Crew
-
-1-3
-
-Slots
-
-5/5
-
-Scout/Corvette/Cutter: Size Class:1, Cronium drive systems
-
-Cost
-
-5 billion
-
-DR
-
-16 (20 with shields)
-
-HP
-
-24
-
-Weight
-
-100 tons
-
-Vehicle Agility
-
-9
-
-Time
-
-8 weeks
-
-Difficulty
-
-21
-
-Tech Level
-
-6 (8 in EE & PS with shields)
-
-Size
-
-20 yards
-
-Weapons
-
-2 batteries, 4 Heavy rifles each
-
-Crew
-
-10
-
-Slots
-
-14/15
-
-Destroyer: Size Class:2, docking/shuttle bay suitable for 2 fighters or 1
-cutter Cronium drive systems
-
-Cost
-
-10 billion
-
-DR
-
-20 (24 with shields)
-
-HP
-
-40
-
-Weight
-
-1000 tons
-
-Vehicle Agility
-
-8
-
-Time
-
-16 weeks
-
-Difficulty
-
-22
-
-Tech Level
-
-6 (8 in EE & PS with shields)
-
-Size
-
-100yards
-
-Weapons
-
-2 cannons, 4 batteries of 4 heavy rifles
-
-Crew
-
-50
-
-Slots
-
-37/45
-
-Cruiser: Size Class:3, docking/shuttle bay suitable for 4 fighters or 2
-cutters Cronium drive systems
-
-Cost
-
-20 billion
-
-DR
-
-20 (26 with shields)
-
-HP
-
-60
-
-Weight
-
-10,000 tons
-
-Vehicle Agility
-
-8
-
-Time
-
-32 weeks
-
-Difficulty
-
-22
-
-Tech Level
-
-8
-
-Size
-
-200yards
-
-Weapons
-
-4 cannons, 6 batteries of 4 heavy rifles
-
-Crew
-
-150
-
-Slots
-
-64/75
-
-Stellar Warship: Size Class:4, docking/shuttle bay suitable for 8 Cronium
-drive systems
-
-Cost
-
-40 billion
-
-DR
-
-20 (28 with shields)
-
-HP
-
-80
-
-Weight
-
-100,000 tons
-
-Vehicle Agility
-
-8
-
-Time
-
-64 weeks
-
-Difficulty
-
-24
-
-Tech Level
-
-4
-
-Size
-
-400 yards
-
-Weapons
-
-Weapons 6 cannons, 8 Batteries of 4 Heavy rifles
-
-Crew 300-500
-
-Slots
-
-95/100
-
-Heavy Warship: Size Class:5, docking/shuttle bay suitable for 12 fighters or 6
-cutters Cronium drive systems
-
-Cost
-
-80 billion
-
-DR
-
-22 (32 with shields)
-
-HP
-
-100
-
-Weight
-
-1e6 tons
-
-Vehicle Agility
-
-8
-
-Time
-
-128 weeks
-
-Difficulty
-
-24
-
-Tech Level
-
-8
-
-Size
-
-800 yards
-
-Weapons
-
-8 cannons, 12 Batteries of 4 Heavy rifles
-
-Crew
-
-500-600
-
-Slots
-
-162/180
-
-Dreadnought: Size Class:6, docking/shuttle bay suitable for 24 fighters or 12
-cutters Cronium drive systems
-
-Cost
-
-150 billion
-
-DR
-
-24 (36 with shields)
-
-HP
-
-160
-
-Weight
-
-10e6 tons
-
-Vehicle Agility
-
-8
-
-Time
-
-256 weeks
-
-Difficulty
-
-26
-
-Tech Level
-
-10
-
-Size
-
-2000 yards
-
-Weapons
-
-1 Assault Cannon, 12 Cannons, 16 Batteries of 4 Heavy rifles
-
-Crew
-
-1000+
-
-Slots
-
-312/350
-
-###   Designing Space Ships
-
-####   Size Classes
+| Ship Type | Size Class | Cost | DR | HP | Weight | Vehicle Agility | Time | Difficulty | Tech Level | Size | Weapons | Crew | Slots |
+| --------- | ---------- | ---- | -- | -- | ------ | --------------- | ---- | ---------- | ---------- | ---- | ------- | ---- | ----- |
+| Space Fighter | 0 | 1 billion | 14 (18 with shields) | 16 | 10 tons | 10 | 4 weeks | 21 | 6 (8 in EE & PS with shields) | 7-10 yards | 2 Heavy rifles mounted | 1-3 | 5/5 |
+| Scout/Corvette/Cutter | 1 | 5 billion | 16 (20 with shields) | 24 | 100 tons | 9 | 8 weeks | 21 | 6 (8 in EE & PS with shields) | 20 yards | 2 batteries, 4 Heavy rifles each | 10 | 14/15 |
+| Destroyer | 2 | 10 billion | 20 (24 with shields) | 40 | 1000 tons | 8 | 16 weeks | 22 | 6 (8 in EE & PS with shields) | 100 yards | 2 cannons, 4 batteries of 4 heavy rifles | 50 | 37/45 |
+| Cruiser | 3 | 20 billion | 20 (26 with shields) | 60 | 10,000 tons | 8 | 32 weeks | 22 | 8 | 200 yards | 4 cannons, 6 batteries of 4 heavy rifles | 150 | 64/75 |
+| Stellar Warship | 4 | 40 billion | 20 (28 with shields) | 80 | 100,000 tons | 8 | 64 weeks | 24 | 4 | 400 yards | 6 cannons, 8 Batteries of 4 Heavy rifles | 300-500 | 95/100 |
+| Heavy Warship | 5 | 80 billion | 22 (32 with shields) | 100 | 1e6 tons | 8 | 128 weeks | 24 | 8 | 800 yards | 8 cannons, 12 Batteries of 4 Heavy rifles | 500-600 | 162/180 |
+| Dreadnought | 6 | 150 billion | 24 (36 with shields) | 160 | 10e6 tons | 8 | 256 weeks | 26 | 10 | 2000 yards | 1 Assault Cannon, 12 Cannons, 16 Batteries of 4 Heavy rifles | 1000+ | 312/350 |
+
+### Designing Space Ships
+
+#### Size Classes
 
 There are 7 basic size classes for ships in the COTA universe. Each size class
 contains both military and civilian ships. The size classes are as follows:
 
-Size Class
-
-Ship Type
-
-Length (yrds)
-
-Weight (Tons)
-
-Slots
-
-1
-
-Fighter/Shuttle
-
-10
-
-10
-
-5
-
-2
-
-Scout/Corvette/Cutter
-
-20
-
-100
-
-15
-
-3
-
-Destroyer/Transport
-
-100
-
-1000
-
-45
-
-4
-
-Cruiser/Freighter
-
-200
-
-10000
-
-75
-
-5
-
-Warship/Hauler
-
-400
-
-100,000
-
-110
-
-6
-
-Heavy Warship/Transliner
-
-800
-
-1,000,000
-
-180
-
-7
-
-Dreadnought/Metroliner/Metroplex
-
-2000+
-
-10,000,000
-
-350
+| Size Class | Ship Type | Length (yrds) | Weight (Tons) | Slots |
+| ---------- | --------- | ------------- | ------------- | ----- |
+| 1 | Fighter/Shuttle | 10 | 10 | 5 |
+| 2 | Scout/Corvette/Cutter | 20 | 100 | 15 |
+| 3 | Destroyer/Transport | 100 | 1000 | 45 |
+| 4 | Cruiser/Freighter | 200 | 10000 | 75 |
+| 5 | Warship/Hauler | 400 | 100,000 | 110 |
+| 6 | Heavy Warship/Transliner | 800 | 1,000,000 | 180 |
+| 7 | Dreadnought/Metroliner/Metroplex | 2000+ | 10,000,000 | 350 |
 
 Slots represent space inside ships. Engines and shields each take up 1 slot
 per size class of the vehicle. Heavy rifles take up 1 slot each (4 for a
@@ -4519,7 +2647,7 @@ longer than a day. For simplicity we let all vehicles travel 1000 light years
 per day in jump space (smaller vehicles slow down, while larger vehicles speed
 up).
 
-####   Engines
+#### Engines
 
 Engines are often the most complex part of a starship, and yet, due to
 advances in technology, and the presence of high-energy fuels such as cronium,
@@ -4578,7 +2706,7 @@ capable of opening gates to Jump Space on their own although in cases where it
 occurs the Council of Time is sure to have a hand in quickly covering up the
 incident. It sure would save alot of Cronium though…
 
-####   Life Support Systems
+#### Life Support Systems
 
 The life support systems on a spaceship take up the most volume out of all of
 the mechanics and gadgetry that a ship contains. The life support systems
@@ -4612,7 +2740,7 @@ loss of either one of those units spells pretty much certain death for all of
 the ships crew and its passengers. Many ship owners find it quite worthwhile
 having a command area.
 
-####   The Bridge and Ship Command
+#### The Bridge and Ship Command
 
 The bridge is one unit of ship structure that is absolutely not necessary, but
 which almost every singe ship possesses. In addition to something just not
@@ -4638,7 +2766,7 @@ for everyone within it, as well as minimal engines to allow it to reach a safe
 location. Such bridges will take up double the volume (2 slots), to account
 for the extra mechanics and gadgetry needed.
 
-####   Other Units
+#### Other Units
 
 Other units involved in ship construction include Habitat Units, Weapons
 Systems, and Cargo Units. They are usually added to single slot increments,
@@ -4655,7 +2783,7 @@ yards.
 Weapon Systems: These are present in various types and sizes. More detail
 coming.
 
-##   Making Equipment
+## Making Equipment
 
 It takes a craftsman 1/5 of the real market cost of an item to make it using
 raw materials and circuits.
@@ -4670,7 +2798,7 @@ the required skills. For each point this construction roll exceeds the target
 number 10% of the final construction time is reduced, to a minimum of 10% of
 the final construction time.
 
-###   Making Equipment with Matter Creation
+### Making Equipment with Matter Creation
 
 Matter Creationists have wonderous advantages when making items.
 
@@ -4689,343 +2817,28 @@ in total number of actions (and given actions per round seconds, minutes etc).
 Repairing existing items that arent destroyed take 1/10th of the creation
 time. The minimum time it takes to create any object is 1 action.
 
-Matter Creation Power Level
-
-Construction Times
-
-1second
-
-1minute
-
-1hour
-
-1day
-
-1week
-
-1month
-
-1year
-
-1
-
-1act
-
-1sec
-
-64sec
-
-32min
-
-4hrs
-
-16hrs
-
-8days
-
-2
-
-1act
-
-1act
-
-32sec
-
-16min
-
-2hrs
-
-8hrs
-
-4days
-
-3
-
-1act
-
-1act
-
-16sec
-
-8min
-
-1hr
-
-4hrs
-
-2day
-
-4
-
-1act
-
-1sec
-
-8sec
-
-4min
-
-15min
-
-2hrs
-
-1day
-
-5
-
-1act
-
-1act
-
-4sec
-
-2min
-
-7min
-
-1hr
-
-12hrs
-
-6
-
-1act
-
-1act
-
-2sec
-
-1min
-
-3min
-
-32min
-
-6hrs
-
-7
-
-1act
-
-1act
-
-1sec
-
-32sec
-
-1min
-
-16min
-
-3hrs
-
-8
-
-1act
-
-1act
-
-1act
-
-16sec
-
-32sec
-
-8min
-
-1hr
-
-9
-
-1act
-
-1act
-
-1act
-
-8sec
-
-16sec
-
-4min
-
-32min
-
-10
-
-1act
-
-1act
-
-1act
-
-4sec
-
-8sec
-
-2min
-
-16min
-
-11
-
-1act
-
-1act
-
-1act
-
-2sec
-
-4sec
-
-1min
-
-8min
-
-12
-
-1act
-
-1act
-
-1act
-
-1sec
-
-2sec
-
-32sec
-
-4min
-
-13
-
-1act
-
-1act
-
-1act
-
-1act
-
-1sec
-
-16sec
-
-2min
-
-14
-
-1act
-
-1act
-
-1act
-
-1act
-
-1act
-
-8sec
-
-1min
-
-15
-
-1act
-
-1act
-
-1act
-
-1act
-
-1act
-
-4sec
-
-32sec
-
-16
-
-1act
-
-1act
-
-1act
-
-1act
-
-1act
-
-2sec
-
-16sec
-
-17
-
-1act
-
-1act
-
-1act
-
-1act
-
-1act
-
-1sec
-
-8sec
-
-18
-
-1act
-
-1act
-
-1act
-
-1act
-
-1act
-
-1act
-
-4sec
-
-19
-
-1act
-
-1act
-
-1act
-
-1act
-
-1act
-
-1act
-
-2sec
-
-20
-
-1act
-
-1act
-
-1act
-
-1act
-
-1act
-
-1act
-
-1sec
+| Matter Creation Power Level | 1second | 1minute | 1hour | 1day | 1week | 1month | 1year |
+| --------------------------- | ------- | ------- | ----- | ---- | ----- | ------ | ----- |
+| 1 | 1act | 1sec | 64sec | 32min | 4hrs | 16hrs | 8days |
+| 2 | 1act | 1act | 32sec | 16min | 2hrs | 8hrs | 4days |
+| 3 | 1act | 1act | 16sec | 8min | 1hr | 4hrs | 2day |
+| 4 | 1act | 1sec | 8sec | 4min | 15min | 2hrs | 1day |
+| 5 | 1act | 1act | 4sec | 2min | 7min | 1hr | 12hrs |
+| 6 | 1act | 1act | 2sec | 1min | 3min | 32min | 6hrs |
+| 7 | 1act | 1act | 1sec | 32sec | 1min | 16min | 3hrs |
+| 8 | 1act | 1act | 1act | 16sec | 32sec | 8min | 1hr |
+| 9 | 1act | 1act | 1act | 8sec | 16sec | 4min | 32min |
+| 10 | 1act | 1act | 1act | 4sec | 8sec | 2min | 16min |
+| 11 | 1act | 1act | 1act | 2sec | 4sec | 1min | 8min |
+| 12 | 1act | 1act | 1act | 1sec | 2sec | 32sec | 4min |
+| 13 | 1act | 1act | 1act | 1act | 1sec | 16sec | 2min |
+| 14 | 1act | 1act | 1act | 1act | 1act | 8sec | 1min |
+| 15 | 1act | 1act | 1act | 1act | 1act | 4sec | 32sec |
+| 16 | 1act | 1act | 1act | 1act | 1act | 2sec | 16sec |
+| 17 | 1act | 1act | 1act | 1act | 1act | 1sec | 8sec |
+| 18 | 1act | 1act | 1act | 1act | 1act | 1act | 4sec |
+| 19 | 1act | 1act | 1act | 1act | 1act | 1act | 2sec |
+| 20 | 1act | 1act | 1act | 1act | 1act | 1act | 1sec |
 
 In general each level of Matter Creation power gained approximately halves the
 time for the previous level rounding down until the value is less than one. To
@@ -5036,327 +2849,126 @@ smaller time increments may be ignored. Once the time gets down to 1 action
 for the largest time increment, no further lookups are needed total
 construction time takes one action.
 
-##   People, Creatures, and Races
+## People, Creatures, and Races
+
+### Agents of the Council
+
+### Angels
+
+Angels form the brunt of the Council's troops. They are genetically manipulated human beings, bred to be stronger, faster, tougher, and incredibly awe-inspiring. They attack in large groups, as squads or as an army. Though they have no Immortal powers, they are often used to hunt down and capture rogue Immortals. They have been modified to have huge angelic wings and often use flying tactics to confuse and capture their opponents.
+
+**Description:** Winged Angelic forms, these are the shock troops of the Council of Time. Awe-Inspiring bringers of death and destruction.
+
+**Equip:** Angelic Plate (golden, +6DR), Plasma Sword + 1 battery, Plasma Rifle + 4 clips, Winged Flight (move X2 speed)
+
+| Attribute   | Value                                                 |
+|-------------|-------------------------------------------------------|
+| Str         | 10                                                    |
+| Agi         | 10                                                    |
+| Dur         | 12                                                    |
+| Tht         | 10                                                    |
+| Wil         | 10                                                    |
+| Pre         | 10                                                    |
+| Skills      | Melee, Missile, Acrobatics, Alertness, Climb, Stealth: 8 |
+| Initiative  | 10                                                    |
+| Hit         | 18/18                                                 |
+| Parry/Evade | 29/29                                                 |
+| Damage      | 16 (Plasma Sword or Rifle)                            |
+| Actions     | 2                                                     |
+| DR/HP       | 4 Dur + 2 Skin + 6 Armor = 12 / 36                    |
+| Powers      | Tough Skin, Grit 2                                    |
+| Move        | 10 (20 Flight)                                        |
+
+### Arch-Angels
+
+**Description:** Winged Angelic forms, these are the elite troops and troop leaders of the Council of Time. Awe-Inspiring bringers of death and destruction.
+
+**Subpowers:** Tough Skin, Grit 4
+
+**Equip:** Pinnacle of Structural Design Angelic Plate (golden, +10DR), Masterwork Plasma Sword, Masterwork Plasma Rifle
+
+| Attribute   | Value                                                        |
+|-------------|--------------------------------------------------------------|
+| Str         | 12                                                           |
+| Agi         | 12                                                           |
+| Dur         | 12                                                           |
+| Tht         | 12                                                           |
+| Wil         | 12                                                           |
+| Pre         | 12                                                           |
+| Skills      | Melee, Missile, Acrobatics, Awareness, Climb, Stealth, Flight: 10 |
+| Masteries   | Melee (Quickdraw), Missile (Gun Kata), Acrobatics (Anime Leap) |
+| Masteries   | Alertness (Panoramic Vision), Climb (SpiderClimb), Stealth (Backstab) |
+| Initiative  | 22                                                           |
+| Hit         | 24/24                                                        |
+| Parry/Evade | 35/35                                                        |
+| Damage      | 18 (Plasma Sword), 16 (Plasma Rifle)                         |
+| Actions     | 3                                                            |
+| DR/HP       | 4 Dur + 2 Skin + 10 Armor = 16 / 60                          |
+| Powers      | Tough Skin, Grit 4                                           |
+| Move        | 12 (24 Flight)                                               |
+
+### Shadow Agents
+
+Shadow Agents are the elite of the Council enforcement team. They tend to operate on a more individual basis, tending to hit the undercover assignments, rather than going in as an armed enforcement division as the angels do. They function as an intelligence agency for the Council, spreading throughout most of human space. They have a few of the Immortals' powers, though they are not Immortal themselves, making them incredibly fierce superhuman opponents. They have a strong form of regeneration (but not body reconstruction; they can still be killed), they can alter their shape, distort the perception of reality around them, see into distant places, and teleport. They don't need to breathe, and can survive unprotected in almost any environment. They can pull weapons out of nowhere, and can be completely undetectable when they wish. They operate singly or in groups, depending on the situation, and are very diligent about tracking down those the Council sends them to hunt.
+
+**Description:** The MIB Superhuman undercover agents working for The Council of Time.
+
+**Powers:** Shapeshift 2, Cloak & Illusion 2, Body Regeneration 2, Continuum Control 2
+
+**Subpowers:** Grit 3
+
+**Equip:** 2 Plasma Pistols, Armored stealth suit +6DR
+
+| Attribute   | Value                                                                     |
+|-------------|---------------------------------------------------------------------------|
+| Str         | 10                                                                        |
+| Agi         | 12                                                                        |
+| Dur         | 10                                                                        |
+| Tht         | 10                                                                        |
+| Wil         | 10                                                                        |
+| Pre         | 10                                                                        |
+| Skills      | Melee, Missile, Acrobatics: 10, Pilot Starship, Alertness, Climb, Stealth: 8 |
+| Masteries   | Melee (Quickdraw), Missile (Ambidexterity), Acrobatics (Anime Leap)       |
+| Initiative  | 20                                                                        |
+| Hit         | 22/22                                                                     |
+| Parry/Evade | 33/33                                                                     |
+| Damage      | 10 + Str or 12 Melee, 14 (Plasma Pistols)                                 |
+| Actions     | 3 + 1 offhand                                                             |
+| DR/HP       | 3 Dur + 2 Skin + 6 Armor = 11 / 40                                        |
+| Powers      | Shapeshift 2, Cloak & Illusion 2, Body Regeneration 2, Continuum Control 2, Grit 3 |
+| Move        | 12, Shapeshift: 2                                                         |
+
+### Elite Agents
+
+**Description:** These are the best of the best. Superhuman undercover agents working for The Council of Time.
+
+**Powers:** Shapeshift 6 - specialist: Vicious: 3, Tough: 3, Grit Master: 3, Skilled Melee: 3, Cloak & Illusion 4, Body Regeneration 2, Continuum Control 6 - specialist Range Mastery: 3, Skilled Alertness: 3
+
+**Subpowers:** Grit 4 (7)
+
+**Equip:** Plasma Pistol, Pinnacle of Structural Design Stealth Suit +10DR, Enhanced Personal shields +8 DR
+
+| Attribute   | Value                                                                              |
+|-------------|------------------------------------------------------------------------------------|
+| Str         | 10                                                                                 |
+| Agi         | 16                                                                                 |
+| Dur         | 12                                                                                 |
+| Tht         | 12                                                                                 |
+| Wil         | 12                                                                                 |
+| Pre         | 10                                                                                 |
+| Skills      | Melee: 14 (17), Alertness, Missile, Acrobatics: 14, Pilot Starship, Climb, Stealth: 10 |
+| Masteries   | Melee (Quickdraw, Lethal Targeting), Missile (Ambidexterity, Gun Kata), Acrobatics (Anime Leap, Arboreal Movement) |
+| Masteries   | Alertness (Panoramic Vision, Danger Sense), Pilot Starship (Defensive Maneuvering) |
+| Masteries   | Climb (SpiderClimb), Stealth (Backstab)                                            |
+| Initiative  | 22                                                                                 |
+| Hit         | 33/30                                                                              |
+| Parry/Evade | 46/43                                                                              |
+| Damage      | STR + Weapon or STR + 9 (shapeshifting), 14 (Plasma Pistol)                        |
+| Actions     | 4 + 1 offhand                                                                      |
+| DR/HP       | 4 Dur + 9 Skin + 10 Armor + 8 Shields = 31 / 96                                    |
+| Powers      | Shapeshift 6, Cloak & Illusion 4, Body Regeneration 2, Continuum Control 6, Grit 4 (7) |
+| Move        | 16, Shapeshift: 6                                                                  |
 
-###   Agents of the Council
-
-Angels
-
-Angels form the brunt of the Councils troops. They are genetically manipulated
-human beings, bred to be stronger, faster, tougher, and incredibly awe-
-inspiring. They attack in large groups, as squads or as an army. Though they
-have no Immortal powers, they are often used to hunt down and capture rougue
-Immortals. They have been modified to have huge angelic wings, and often use
-flying tactics to confuse and capture their opponents.
-
-Description: Winged Angelic forms, these are the shock troops of the Council
-of Time. Awe Inspiring bringers of death and destruction. Equip: Angelic Plate
-(golden, +6DR), Plasma Sword + 1 battery, Plasma Rifle + 4 clips Winged Flight
-(move X2 speed)
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-10
-
-10
-
-12
-
-10
-
-10
-
-10
-
-Skills
-
-Melee,Missile,Acrobatica,Alertness,Climb,Stealth:8
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Powers
-
-Move
-
-10
-
-18/18
-
-29/29
-
-16 (Plasma Sword or Rifle)
-
-2
-
-4Dur+2Skin+6Armor=12/36
-
-Tough Skin,Grit 2
-
-10(20 Flight)
-
-Arch-Angels
-
-Description: Winged Angelic forms, these are the elite troops and troop
-leaders of the Council of Time. Awe-Inspiring bringers of death and
-destruction. Subpowers: Tough Skin, Grit 4 Equip: Pinnacle of Structural
-Design Angelic Plate (golden, +10DR), Masterwork Plasma Sword, Masterwork
-Plasma Rifle
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-12
-
-12
-
-12
-
-12
-
-12
-
-12
-
-Skills
-
-Melee,Missile,Acrobatica,Awareness,Climb,Stealth,Flight:10
-
-Masteries
-
-Melee(Quickdraw),Missile(Gun Kata),Acrobatica(Anime Leap)
-
-Masteries
-
-Alertness(Panoramic Vision),Climb(SpiderClimb),Stealth(Backstab)
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Powers
-
-Move
-
-22
-
-24/24
-
-35/35
-
-18 Plasma Sword, 16 Plasma Rifle)
-
-3
-
-4Dur+2Skin+10Armor=16/60
-
-Tough Skin,Grit 4
-
-12(24 Flight)
-
-Shadow Agents
-
-Shadow Agents are the elite of the Council enforcement team. They tend to
-operate on a more individual basis, tending to hit the undercover assignments,
-rather than going in as an armed enforcement division as the angels do. They
-function as an intelligence agency for the Council, spreading throughout most
-of human space. They have a few of the Immortals powers, though they are not
-Immortal themselves, making them incredibly fierce superhuman opponents. They
-have a strong form of regeneration (but not body reconstruction they can still
-be killed), they can alter their shape, distort the perception of reality
-around them, see into distant places, and teleport. They dont need to breath,
-and can survive unprotected in almost any environment. They can pull weapons
-out of nowhere, and can be completely undetectable when they wish. They
-operate singly or in groups, depending on the situation, and are very diligent
-about tracking down those the Council sends them to hunt.
-
-Description: The MIB Superhuman undercover agents working for The Council of
-Time. Powers: Shapeshift 2, Cloak & Illusion 2, Body Regeneration 2,Contiuum
-Control 2 Subpowers: Grit 3 Equip: 2 Plasma Pistols,Armored stealth suit +6DR
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-10
-
-12
-
-10
-
-10
-
-10
-
-10
-
-Skills
-
-Melee,Missile,Acrobatica:10 Pilot Starship,Alertness,Climb,Stealth:8
-
-Masteries
-
-Melee(Quickdraw),Missile(Ambidexterity),Acrobatica(Anime Leap)
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Powers
-
-Move
-
-20
-
-22/22
-
-33/33
-
-10+Str or 12 Melee, 14 (Plasma Pistols)
-
-3+1offhand
-
-3Dur+2Skin+6Armor=11/40
-
-Shapeshift 2, Cloak & Illusion 2, Body Regeneration 2,Contiuum Control 2,Grit
-3
-
-12,Shapeshift:2
-
-Elite Agents
-
-Description: These are the best of the best. Superhuman undercover agents
-working for The Council of Time. Powers: Shapeshift 6- specialist:
-Vicous:3,Tough:3,GritMaster:3,Skilled Melee:3, Cloak & Illusion 4, Body
-Regeneration 2,Contiuum Control 6 - specialist Range Mastery:3,Skilled
-Alertness:3 Subpowers: Grit 4(7) Equip: Plasma Pistol, Pinnacle of Structural
-Design Stealth Suit +10DR, Enhanced Personal shields +8 DR
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-10
-
-16
-
-12
-
-12
-
-12
-
-10
-
-Skills
-
-Melee:14(17),Alertness,Missile,Acrobatica:14,Pilot Starship,Climb,Stealth:10
-
-Masteries
-
-Melee(Quickdraw,Lethal Targeting),Missile(Ambidexterity,Gun
-Kata),Acrobatica(Anime Leap,Arboreal Movement)
-
-Masteries
-
-Alertness(Panoramic Vision,Danger Sense),Pilot Starship(Defensive Maneuvering)
-
-Masteries
-
-Climb(SpiderClimb),Stealth(Backstab)
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Powers
-
-Move
-
-22
-
-33/30
-
-46/43
-
-STR+Weapon or STR+9 (shapeshifting), 14 (Plasma Pistol)
-
-4+1offhand
-
-4Dur+9Skin+10Armor+8Shields=31/96
-
-Shapeshift 6, Cloak & Illusion 4, Body Regeneration 2,Contiuum Control 6,Grit
-4(7)
-
-16, Shapeshift:6
 
 ###   Alien Races
 
@@ -5382,158 +2994,65 @@ and may reform a new physical body in 24 hours. A Xelomite destroyed in jump
 space is forced to create a new physical body using standard Body
 Reconstruction rules (4 weeks base).
 
-Xelomites
-
-Description: Description: 7ft tall Demonic humanoids. Superhuman creatures
-that attack space travellers. Powers: Shapeshift 6 - specialist:
-Vicous:3,Tough:3,GritMaster:3,Skilled Melee:3, Warp Control 2, Body
-Reconstruction 1 Subpowers: Grit 2(5),Thick Skin Equip: none
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-12
-
-12
-
-12
-
-12
-
-12
-
-12
-
-Skills
-
-Melee:4(15),Alertness,Acrobatica,Climb,Stealth:10
-
-Masteries
-
-Melee(Ambidexterity)
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Powers
-
-Move
-
-12
-
-27/12
-
-38/33
-
-STR+Weapon or STR+9(shapeshift) (+3 Melee)
-
-3+1offhand
-
-4Dur+11Skin=15/72
-
-Shapeshift 6, Warp Control 2, Body Reconstruction 1,Grit 2,Thick Skin
-
-12, Shapeshift:6
-
-Xelomite Lords
-
-Description: 9ft tall Demonic humanoids. Superhuman creatures that attack
-space travellers. Powers: Shapeshift 10 - specialist:
-Vicous:5,Tough:5,GritMaster:5,Skilled Melee:3,Inconceivable:, Warp Control 6,
-Body Reconstruction 4,Contiuum Control 6 Subpowers: Grit 4(9),Thick Skin
-Equip: none
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-14
-
-16
-
-18
-
-12
-
-14
-
-12
-
-Skills
-
-Melee:2(21),Alertness,Astrogation:4(10),Acrobatica,Climb,Stealth:10
-
-Masteries
-
-Melee(Quick Draw, Ambidexterity, Lethal Targeting,Reflexive Deflection)
-
-Masteries
-
-Astrogation(Linear Algebra),Alertness(Panoramic Vision),Acrobatica (Anime
-Leap)
-
-Masteries
-
-Climb(SpiderClimb),Stealth(Backstab)
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Powers
-
-Move
-
-33
-
-37/16
-
-50/39
-
-14+Weapon or 30 (2xShapeshift) (+3 Melee)
-
-4+1offhand
-
-6Dur+17Skin=23/180
-
-Shapeshift 10, Warp Control 6, Body Reconstruction 4,Contiuum Control 6,Grit
-4(9),Thick Skin
-
-16, Shapeshift:10
+### Xelomites
+
+**Description:** 7ft tall Demonic humanoids. Superhuman creatures that attack space travellers.
+
+**Powers:** Shapeshift 6 - specialist: Vicious: 3, Tough: 3, Grit Master: 3, Skilled Melee: 3, Warp Control 2, Body Reconstruction 1
+
+**Subpowers:** Grit 2 (5), Thick Skin
+
+**Equip:** None
+
+| Attribute   | Value                                                              |
+|-------------|--------------------------------------------------------------------|
+| Str         | 12                                                                 |
+| Agi         | 12                                                                 |
+| Dur         | 12                                                                 |
+| Tht         | 12                                                                 |
+| Wil         | 12                                                                 |
+| Pre         | 12                                                                 |
+| Skills      | Melee: 4 (15), Alertness, Acrobatics, Climb, Stealth: 10           |
+| Masteries   | Melee (Ambidexterity)                                              |
+| Initiative  | 12                                                                 |
+| Hit         | 27/12                                                              |
+| Parry/Evade | 38/33                                                              |
+| Damage      | STR + Weapon or STR + 9 (shapeshift) (+3 Melee)                    |
+| Actions     | 3 + 1 offhand                                                      |
+| DR/HP       | 4 Dur + 11 Skin = 15 / 72                                          |
+| Powers      | Shapeshift 6, Warp Control 2, Body Reconstruction 1, Grit 2, Thick Skin |
+| Move        | 12, Shapeshift: 6                                                  |
+
+### Xelomite Lords
+
+**Description:** 9ft tall Demonic humanoids. Superhuman creatures that attack space travellers.
+
+**Powers:** Shapeshift 10 - specialist: Vicious: 5, Tough: 5, Grit Master: 5, Skilled Melee: 3, Inconceivable, Warp Control 6, Body Reconstruction 4, Continuum Control 6
+
+**Subpowers:** Grit 4 (9), Thick Skin
+
+**Equip:** None
+
+| Attribute   | Value                                                                               |
+|-------------|-------------------------------------------------------------------------------------|
+| Str         | 14                                                                                  |
+| Agi         | 16                                                                                  |
+| Dur         | 18                                                                                  |
+| Tht         | 12                                                                                  |
+| Wil         | 14                                                                                  |
+| Pre         | 12                                                                                  |
+| Skills      | Melee: 2 (21), Alertness, Astrogation: 4 (10), Acrobatics, Climb, Stealth: 10       |
+| Masteries   | Melee (Quick Draw, Ambidexterity, Lethal Targeting, Reflexive Deflection)            |
+| Masteries   | Astrogation (Linear Algebra), Alertness (Panoramic Vision), Acrobatics (Anime Leap) |
+| Masteries   | Climb (SpiderClimb), Stealth (Backstab)                                             |
+| Initiative  | 33                                                                                  |
+| Hit         | 37/16                                                                               |
+| Parry/Evade | 50/39                                                                               |
+| Damage      | 14 + Weapon or 30 (2x Shapeshift) (+3 Melee)                                        |
+| Actions     | 4 + 1 offhand                                                                       |
+| DR/HP       | 6 Dur + 17 Skin = 23 / 180                                                          |
+| Powers      | Shapeshift 10, Warp Control 6, Body Reconstruction 4, Continuum Control 6, Grit 4 (9), Thick Skin |
+| Move        | 16, Shapeshift: 10                                                                  |
 
 ###   Other Folks
 
@@ -5542,234 +3061,96 @@ security forces across the galaxy. For the most part, they are pretty uniform
 in their abilities. They are often found patrolling in hover vehicles, or
 stationed as guards.
 
-Security Forces
-
-Description: Description: One of the most common encounters will be with
-various security forces across the galaxy. For the most part, they are pretty
-uniform in their abilities. They are often found patrolling in hover vehicles,
-or stationed as guards. Powers: None Subpowers: None Equip: Stun Baton: Str+2
-damage stun, Mag Pistol (Dam: 10+), Ceramic Armor (+6 DR)
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-4
-
-4
-
-4
-
-4
-
-4
-
-4
-
-Skills
-
-Melee,Missile,Alertness,Acrobatica,Climb,Stealth:4
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Powers
-
-Move
-
-4
-
-8/8
-
-19/19
-
-4+Weapon or 10
-
-1
-
-1Dur+6Armor=7/4
-
-None
-
-4
-
-Elite Battle Armor Troopers Equipment: Full Body Suit, Powered Armor (12DR+4
-Shields, 12HP), veh agility:16 Built in Heavy Laser Rifle:(Dam: 16+) Str: 4
-(10) Agi: 8 Dur: 8 Tht: 4 Wil: 4 Prs: 4 Skills: Melee: 8 Missile: 8
-Acrobatics: 8 Hit: 16+ Evade: 27 DR: 16 Armor HP:12, Trooper HP:8
-
-Elite Battle Armor Troopers
-
-Description: Elite soldiers trained to combat in Full Body Armor Powers: None
-Subpowers: None Equip: Mag Pistol (Dam: 10+),Full Body Armor(Powered Armor)
-(12DR+4 Shields, 12HP), veh agility:16, Built in Heavy Laser Rifle:(Dam: 16+)
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-4(10)
-
-8
-
-8
-
-4
-
-4
-
-4
-
-Skills
-
-Melee,Missile,Alertness,Acrobatica,Climb,Stealth:8
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Powers
-
-Move
-
-8
-
-16/16
-
-27/27
-
-10+Weapon or 16
-
-2
-
-16/12HP (suit), or 2Dur/8
-
-None
-
-8 (16 in armor)
-
-Electro-Immortal Nav Computers
-
-Price: 50 billion sands Description: These immortals were lobotomized before
-becoming immortals by the council and are currently being produced (in ultra
-secret labs in link space and free space that are monitored by council
-members). The have Electrokinesis and are masters of the warp as well as being
-capable of Astrogation. They perform basic functions, but their personalities
-have been wiped. Knowledge of the electro-immortals is completely secret as
-the nav computers are believed to be advanced Council technology. Expendable
-(without Body Reconstruction) variants were constructed but often weren't up
-to the capabilities of the immortal versions (standard). Either way it is said
-that these sad individuals are in a permanent dreaming state as some ghost of
-their former selves, this same pseudo consciousness allows them to construct
-potent AI's and integrate well with computer systems, as well as going
-“beyond” by using the potent mastery Linear Algebra. Entire ships have been
-destroyed by Xelomites while floating sarcophagi were found with “living” Nav
-Computers. Electro-Immortal Nav Computers rarely open up gates to Jump space
-themselves, but in dire circumstances have been know to do so to save the
-vessel they navigate for. Powers: Electrokinesis: 6, Master of the Warp: 6,
-Body Reconstruction:1. Subpowers: None Equip: Sarcophagus (apparatus that
-houses their physical form)
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-NA
-
-NA
-
-12
-
-12
-
-12
-
-0
-
-Skills
-
-Warp Control, Computer Systems: 8(14)
-
-Masteries
-
-Warp Control(Linear Algebra),Computer Systems(Create AI)
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Powers
-
-Move
-
-12
-
-NA/NA
-
-NA/NA
-
-NA
-
-NA
-
-4Dur/12
-
-Electrokinesis: 6, Master of the Warp: 6, Body Reconstruction:1.
-
-NA
-
-#   Setting
-
-##   History
+### Security Forces
+
+**Description:** One of the most common encounters will be with various security forces across the galaxy. For the most part, they are pretty uniform in their abilities. They are often found patrolling in hover vehicles, or stationed as guards.
+
+**Powers:** None
+
+**Subpowers:** None
+
+**Equip:** Stun Baton (Str+2 damage stun), Mag Pistol (Dam: 10+), Ceramic Armor (+6 DR)
+
+| Attribute   | Value                                        |
+|-------------|----------------------------------------------|
+| Str         | 4                                            |
+| Agi         | 4                                            |
+| Dur         | 4                                            |
+| Tht         | 4                                            |
+| Wil         | 4                                            |
+| Pre         | 4                                            |
+| Skills      | Melee, Missile, Alertness, Acrobatics, Climb, Stealth: 4 |
+| Initiative  | 4                                            |
+| Hit         | 8/8                                          |
+| Parry/Evade | 19/19                                        |
+| Damage      | 4 + Weapon or 10                             |
+| Actions     | 1                                            |
+| DR/HP       | 1 Dur + 6 Armor = 7 / 4                      |
+| Powers      | None                                         |
+| Move        | 4                                            |
+
+### Elite Battle Armor Troopers
+
+**Description:** Elite soldiers trained to combat in Full Body Armor
+
+**Powers:** None
+
+**Subpowers:** None
+
+**Equip:** Mag Pistol (Dam: 10+), Full Body Armor (Powered Armor) (12 DR + 4 Shields, 12 HP), veh agility: 16, Built-in Heavy Laser Rifle (Dam: 16+)
+
+| Attribute   | Value                                                               |
+|-------------|---------------------------------------------------------------------|
+| Str         | 4 (10)                                                              |
+| Agi         | 8                                                                   |
+| Dur         | 8                                                                   |
+| Tht         | 4                                                                   |
+| Wil         | 4                                                                   |
+| Pre         | 4                                                                   |
+| Skills      | Melee, Missile, Alertness, Acrobatics, Climb, Stealth: 8            |
+| Initiative  | 8                                                                   |
+| Hit         | 16/16                                                               |
+| Parry/Evade | 27/27                                                               |
+| Damage      | 10 + Weapon or 16                                                   |
+| Actions     | 2                                                                   |
+| DR/HP       | 16/12 HP (suit) or 2 Dur / 8 HP                                     |
+| Powers      | None                                                                |
+| Move        | 8 (16 in armor)                                                     |
+
+### Electro-Immortal Nav Computers
+
+**Price:** 50 billion sands
+
+**Description:** These immortals were lobotomized before becoming immortals by the council and are currently being produced (in ultra-secret labs in link space and free space that are monitored by council members). They have Electrokinesis and are masters of the warp as well as being capable of Astrogation. They perform basic functions, but their personalities have been wiped. Knowledge of the electro-immortals is completely secret as the nav computers are believed to be advanced Council technology. Expendable (without Body Reconstruction) variants were constructed but often weren't up to the capabilities of the immortal versions (standard). Either way it is said that these sad individuals are in a permanent dreaming state as some ghost of their former selves, this same pseudo consciousness allows them to construct potent AI's and integrate well with computer systems, as well as going “beyond” by using the potent mastery Linear Algebra. Entire ships have been destroyed by Xelomites while floating sarcophagi were found with “living” Nav Computers. Electro-Immortal Nav Computers rarely open up gates to Jump space themselves, but in dire circumstances have been known to do so to save the vessel they navigate for.
+
+**Powers:** Electrokinesis: 6, Master of the Warp: 6, Body Reconstruction: 1
+
+**Subpowers:** None
+
+**Equip:** Sarcophagus (apparatus that houses their physical form)
+
+| Attribute   | Value                                              |
+|-------------|----------------------------------------------------|
+| Str         | N/A                                                |
+| Agi         | N/A                                                |
+| Dur         | 12                                                 |
+| Tht         | 12                                                 |
+| Wil         | 12                                                 |
+| Pre         | 0                                                  |
+| Skills      | Warp Control, Computer Systems: 8 (14)             |
+| Masteries   | Warp Control (Linear Algebra), Computer Systems (Create AI) |
+| Initiative  | 12                                                 |
+| Hit         | N/A                                                |
+| Parry/Evade | N/A                                                |
+| Damage      | N/A                                                |
+| Actions     | N/A                                                |
+| DR/HP       | 4 Dur / 12                                         |
+| Powers      | Electrokinesis: 6, Master of the Warp: 6, Body Reconstruction: 1 |
+| Move        | N/A                                                |
+
+# Setting
+
+## History
 
 Sometime in the early 21st century, corporations began to take over a large
 percentage of the governmental issues of then forming global government.
@@ -5913,7 +3294,7 @@ out of humans who weren't destroyed or consumed. A crusade for their capture
 began and many of the Xelomites were put into cryo-stasis on the homeworld
 Earth.
 
-###   Time Line
+### Time Line
 
 Date Event
 
@@ -5979,9 +3360,9 @@ have colonized large regions of space. Earth forbidden and location hidden.
 
 12000 Current game time, the immortals wake up…
 
-###   The Xelomite Invasion of 7281
+### The Xelomite Invasion of 7281
 
-####   Preface
+#### Preface
 
 By the late 7100s the Xelomite Lords had amassed great armies of immortals.
 Their internal disputes for control and power were quashed by the Arch-Lord
@@ -5991,7 +3372,7 @@ as the Council member's were, their direct influence couldn't cover a large
 enough area to the stop the flood of biological warships in their sporadic
 raids against many of the worlds of Freespace, even those close to Radiance.
 
-####   Council Member Elliot Lakes Personal Journal: The Plan, June 7281
+#### Council Member Elliot Lakes Personal Journal: The Plan, June 7281
 
 “The Xelomite menace grows with each passing moment exponentially. Our forces
 can only maintain a geometric growth. Inevitably at the current rate of
@@ -6119,11 +3500,11 @@ clawblades of the once great Kelxor. The blow split the creature in two and
 fading energy burst out from all directions blasting a huge crater. Then there
 was only silence.
 
-##   Current Affairs
+## Current Affairs
 
-###   Linked Space
+### Linked Space
 
-####   A Brief History
+#### A Brief History
 
 LinkedSpace is 30 light-years accross. It is surrounded by the gap, which
 forms a 300 lightyear shell around LinkedSpace. The whole region centers on
@@ -6138,7 +3519,7 @@ provide more habitable space than can possibly be comprehended. So much so
 that there is one person in linked space for each atom in the rest of the
 universe. == Builder Beasts and Other Creatures ==
 
-####   Earth and Sol
+#### Earth and Sol
 
 The sol Dysonsphere radius reaches just beyond Earth. This tremendous project
 was built by the Council members along with Link space over thousands of
@@ -6182,12 +3563,12 @@ transportation tunnels and thousands of city type environments house billions
 of individuals. The ruling groups of Various organizations under the thumb of
 the council are located primarily on the homeworld.
 
-####   The Structure of Linked
+#### The Structure of Linked
 
 Space Nodes Conduits The Linked Space Armada Culture of Linked Space
 Populations Military Council Influence Immortals, Agents, and Angels Economy
 
-###   Radiance and The Gap
+### Radiance and The Gap
 
 And Surrounding Paradise was the Desert.
 
@@ -6277,7 +3658,7 @@ strategically placed receivers within Linked Space. Once anything was
 detected, Shadow Agents were immediately dispatched to observe, analyze, and
 if need be, destroy.
 
-####   Radiance
+#### Radiance
 
 Radiance is the name given to the Gap Boundry on the FreeSpace side. Named so
 due to the fact that is shines brilliantly in every wavelength of the electro-
@@ -6306,7 +3687,7 @@ Gate Guardians. They tend to rule the planets as their own mini-empires, as a
 way to while away the time while waiting for the inevitable attack upon the
 gates.
 
-###   FreeSpace
+### FreeSpace
 
 The vast majority of the galaxy is lumped together into a region known as
 FreeSpace. FreeSpace consists of everything outside the boundaries of Radiance
@@ -6326,7 +3707,7 @@ Council influence is not nearly as obvious in FreeSpace as it is in Linked
 Space. There are many agents for the Council pervading FreeSpace, but they
 tend to hide their presence, working through intermediaries.
 
-####   The FreeSpace Military
+#### The FreeSpace Military
 
 Some of the largest Free Space fleets consist of a single dreadnaught and a
 few dozen other warships. (This is not that small a dreadnaught is a
@@ -6349,7 +3730,7 @@ and then dissappeared! I have never seen such ruthless… efficiency in my
 entire life.! It was sick! Sick, I tell you! We'd already made peace with
 those alien attackers!”
 
-####   Faraway
+#### Faraway
 
 If you've never been to Faraway, you have to go.
 
@@ -6395,7 +3776,7 @@ are over 7 moons to Faraway that provide their own backdrops of light in the
 night sky. Several of these are populated, as well, and have their own little
 light shows going on.
 
-#####   Planetary Specifications
+##### Planetary Specifications
 
 Geologically, Faraway is a lot like Earth. Roughly 9000 miles in diameter, it
 is somewhat bigger than Earth is; however, it's surface gravity is almost the
@@ -6469,9 +3850,9 @@ scientific and military stations, as its position as the farthest moon in the
 system makes it an idea point to place surveillance and communications
 equipment.
 
-###   Vien
+### Vien
 
-History ofVien
+History of Vien
 
 Vien Planet
 
@@ -6479,7 +3860,7 @@ Vien Orbital Ring
 
 Current Events in Vien
 
-###   Diego Sector
+### Diego Sector
 
 Diego Sector is a sector that is relatively close to Linked Space (roughly
 5000 light years away) but isolated enough that it tends to escape the
@@ -6547,9 +3928,9 @@ alone. The general population believes that he is a really rich guy who has
 transfered his brain into an android to keep stay alive for so long (He has
 ruled over Sanctuary for several hundred years now…).
 
-###   The FreeSpace Economy
+### The FreeSpace Economy
 
-####   Banks
+#### Banks
 
 Banks in FreeSpace tend to be run by many independent corporations and
 governments. They are all connected by the Datasphere, allowing any
@@ -6566,7 +3947,7 @@ equivelent to 1 dollar's worth of cronium (1e-7lbs).
 Due to the current backing system of the galactic economy, many banks start
 out as mining corporations that stumble upon a vein of cronium.
 
-##   JumpSpace
+## JumpSpace
 
 Jumpspace is one of those strange mysteries of the Universe that no one
 (except maybe the Council) understands, but without which the human galactic
@@ -6599,11 +3980,11 @@ Ship speeds are 1000 light years/day in Jump Space. The compression ratio from
 normal space to jump space is approximately 1e10 so 1 yard in jump space is
 1e10 or 10 billion yards in regular space.
 
-##   The Galactic Map
+## The Galactic Map
 
-###   Long Range Space Travel
+### Long Range Space Travel
 
-##   ElectroImmortals and NavComps
+## ElectroImmortals and NavComps
 
 See descriptions for ElectroImmortals
 
@@ -6684,7 +4065,7 @@ been optimized would have to be made larger and would be treated as a mag
 rifle. Tech/Equipment just doesn't have the same potential as your characters,
 it's limited where the immortals are not.
 
-##   Artifacts
+## Artifacts
 
 There are many artifacts floating around the galaxy that no one has a really
 good explanation for. Generally, they are the remnants of older civilizations,
@@ -6705,7 +4086,7 @@ of the Impression tube.
 
 The Limits of Technology
 
-##   People and Aliens
+## People and Aliens
 
 There are many different civilizations in the COTA universe. The galaxy is a
 very large place, and a lot of different things can be found in it. The
@@ -6719,7 +4100,7 @@ their niches; AI's in the Datasphere that pervades FreeSpace, and Xelomites in
 JumpSpace. Humans, of course, are omnipresent in the physical part of
 FreeSpace, and rule absolutely in LinkedSpace.
 
-###   The Council Hunters
+### The Council Hunters
 
 These are the elite of the freeroving council agents. They are almost always
 Immortals in the service of the council (100xp). They have a great deal of
@@ -6730,12 +4111,12 @@ They tend to be extremely honorable, although they are will-bound to serve the
 council. Where given free reign, though, they tend to obey the Hunter's code
 as laid down by the council.
 
-####   Hunter's Code
+#### Hunter's Code
 
 Serve and obey the will of the council. Capture or convert rogue immortals.
 Cleanse the Xelomite infestation.
 
-###   AIs
+### AIs
 
 AI's tend to socialize in the Datasphere, which is a galaxy-wide virtual net.
 Connections to the Datasphere is fairly expensive, as all Datasphere
@@ -6755,7 +4136,7 @@ vulnurable (if nothing recieves their transmission, then their signal
 continues to travel onwards forever, or until it decays. They will never wake
 up).
 
-###   Xelomites
+### Xelomites
 
 Xelomites are divided into several factions known as Gaggles.
 
@@ -6805,17 +4186,17 @@ lack of technology makes it somewhat difficult for them to open up warp gates
 at will; they depend upon encountering other ships as they are entering or
 leaving jump space to get back and forth.
 
-#   Just In Case You Were Curious
+# Just In Case You Were Curious
 
-##   Character Stats
+## Character Stats
 
-coTA's aren't limited like normal humans to a maximum stat advancement to 10.
+COTA's aren't limited like normal humans to a maximum stat advancement to 10.
 The reason for this is that genetic alteration of the COTA has given them
 almost infinite potential. As they learn about their powers and understand
 their nature their physical limitations recede. The only limit on a COTA's
 stat or power is their Immortal Power Level or IPL.
 
-###   Body Reconstruction
+### Body Reconstruction
 
 COTA's being immortals maintain their consciousness even after their bodies
 are devoid of life. Once in the ether state the immortals may begin tapping
@@ -6830,7 +4211,7 @@ allows any creature to be an immortal, and gain immortal abilities. It also
 provides for the ghost form that an immortal reverts to when his body is
 destroyed.
 
-####   Destruction of the Physical Form
+#### Destruction of the Physical Form
 
 If the immortals physical body is ever destroyed ( a.k.a. he is killed ) the
 immortal immediately experiences ghost form. The immortal cannot be detected
@@ -6855,7 +4236,7 @@ immortal is immediately transferred into the body. It is believed that an
 immortal in ghost form can see other people's auras leaving their bodies after
 death before vanishing out of site.
 
-###   Vaccuum Survival
+### Vaccuum Survival
 
 Besides decompression, which should cause intense pain/damage and eventual
 death in under a minute, you'd freeze if there wasn't a local solar body. If
@@ -6881,18 +4262,18 @@ the vacuum of space indefinitely.
 Although people can survive for very short times in space without protection,
 it isn't a pleasant experience.
 
-###   The Mathematics/Physics of COTA
+### The Mathematics/Physics of COTA
 
 === LinkedSpace Math ===
 
 Link space consists of a 30 light year radius of interconnecting Dysonspheres
 and cylindrical links known as conduits.
 
-####   Xelomite Food Sources
+#### Xelomite Food Sources
 
-#   Running The Game
+# Running The Game
 
-##   Long Term Plotline Ideas
+## Long Term Plotline Ideas
 
 Human/Xelomite War: Something needs to be done about the fact that human
 technology is destroying the Xelomite home dimension. The council obviously
@@ -6922,15 +4303,15 @@ Saving the Universe: All the powers that the 10,000 or so immortals that were
 created are using have to be messing up the universe somehow. How? And what
 can be done about it?
 
-##   Introductory Adventure
+## Introductory Adventure
 
-###   Sanctuary
+### Sanctuary
 
-###   NPC Sheets
+### NPC Sheets
 
-#   Quick Character Generation
+# Quick Character Generation
 
-#   Character Sheets
+# Character Sheets
 
 
   * [View On GitHub](https://github.com/victusfate/COTA)
