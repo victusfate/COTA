@@ -346,7 +346,7 @@ space). After a few hours a great Battleship majestically approaches
 responding to the initial distress beacon. Angels with jet packs soar about
 the ship fragments quickly identifying and transporting the imprompto oxygen
 chamber back to the Battleship docking bays for interrogation. And that is
-only the beginning for the three COTA.
+only the beginning for the two COTA.
 
 # Character Generation
 
