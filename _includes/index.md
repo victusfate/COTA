@@ -1974,8 +1974,8 @@ The base construction difficulty is 25. Your Matter Creationist power level is
 12 and has skill level 10(12) in Power Systems and Electrical Engineering
 (required for shields) and a 10(12) skill in the other required areas of
 Mechanical Engineering and Chemistry. Your character has a thought of 16(28)
-so your construction roll is d20 + 28 THT + 12 lowest required skill) = d20 +
-40. If you give the robot armor shields 10 (4 automatically from enhanced
+so your construction roll is d20 + 28 THT + 12 lowest required skill) = d20 + 40. 
+If you give the robot armor shields 10 (4 automatically from enhanced
 shield mastery, 6 base from the vehicle so +6 difficulty), and make it a
 variant capable of warp flight in fighter form (difficulty +4), maxing out the
 vehicle agility from 13 (9 + 4 from Power systems warp power mastery) to 26
@@ -2035,7 +2035,6 @@ or about 57,200 miles per hour
 
 ##   General Equipment
 
-```markdown
 ### Antigrav Backpack / Hoverboard
 
 A large, camping-sized, waterproof and durable backpack. Removes all encumbrance for items stored within it, up to 1200 pounds. A charge on an Antigrav pack will last for about a week.
